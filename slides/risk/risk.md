@@ -1,1 +1,1 @@
-../../../ikiwiki/Process/Lunch_N_Learn/Content/Risk_Management/Risk_Management.md
+../../../ikiwiki/Process/Lunch_N_Learn/Content/Risk_Management.md
