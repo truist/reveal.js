@@ -1,7 +1,7 @@
 /* global module:false */
 module.exports = function(grunt) {
 	var port = grunt.option('port') || 8000;
-	var base = grunt.option('base') || '.';
+	var base = grunt.option('webdir') || grunt.option('base') || '.';
 
 	// Project configuration
 	grunt.initConfig({
@@ -92,8 +92,10 @@ module.exports = function(grunt) {
 		connect: {
 			server: {
 				options: {
+                    hostname: '127.0.0.1',
 					port: port,
-					base: base,
+                    useAvailablePort: true,
+					base: ['.', base],
 					livereload: true,
 					open: true
 				}
