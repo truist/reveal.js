@@ -54,7 +54,7 @@ Har har, get it?
 * Bladder and foam are shippable
 * Return policies are (usually) great
 * Physical stores are designed to rip you off, even if you aren't buying innerspring
-* Innerspring mattresses have NO compelling advantages
+* Innerspring mattresses have very few compelling advantages
 
 ## What to buy
 0. Air
@@ -71,6 +71,8 @@ Har har, get it?
 	* If you sleep on your back
 * The next-firmest (and cheapest!)
 	* If you sleep on your side (or stomach)
+* A thicker one
+	* If a regular user is >230lbs
 * Ignore your experience with innerspring mattresses
 
 ## Don't get extra layers!
