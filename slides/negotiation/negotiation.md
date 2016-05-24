@@ -26,7 +26,7 @@
 
 * In exchange for what you're willing to give, for it
 
-* (Optimize this for yourself, without risking the whole deal)
+* Optimize this for yourself, without risking either of the prior things
 
 
 ## This is why I can claim success
@@ -53,16 +53,17 @@ The party who is more-willing to walk away can (and often does) get more of what
 ## Don't start negotiating until you have a good sense of when you'd walk away!
 
 
-## There are three layers to a negotiation
-1. What is being said
-
-2. What each party is really willing to give/get
-
-3. Where the real "walk away" lines are
-
-
-
 # NEGOTIATION STRATEGY
+
+
+## Subtext
+What the other party says is often designed to intentionally obscure:
+
+0. Their real goals (what they want)
+0. What they're really willing to give
+0. Where their walk-away lines are
+
+Stay mindful of trying to figure out those things!
 
 
 ## Negotiating stance
@@ -110,7 +111,7 @@ Either approach can work with either stance <!-- .element: class="fragment" -->
 ## Think about each quadrant
 * Open / Strength
     * "Give us both the best odds of making this work, or walk away"
-    * Vulnerable to being screwed
+    * Vulnerable to being screwed... out of things you don't really need
     * But either way you're happy with the result
         * If you are willing to walk away at the appropriate time
 
@@ -140,9 +141,10 @@ Either approach can work with either stance <!-- .element: class="fragment" -->
 ## Discomfort
 * Feelings drive most negotiations, far more than you might wish they do
 
+* The more you can ignore your own discomfort, the better
+
 * The more you can make the other party uncomfortable - without making them angry - the more you get
-    * Professional negotiators use this extensively!
-        * HR, lawyers, sociopaths, ...
+    * Professional negotiators (HR, lawyers, ...) use this extensively!
 
 * For most of us, making other people uncomfortable makes us uncomfortable
     * So maybe you choose not to use this technique - stick to "open"
@@ -165,7 +167,7 @@ Either approach can work with either stance <!-- .element: class="fragment" -->
 
 * Often your gauge is off - it will actually seem reasonable to the other side
     * Or the simple fact that you asked will raise their impression of you!
-    * But sometimes being too-far off can have bad consequences, so be a bit careful
+    * But sometimes being too-far off can be a mistake, so be a bit careful
 
 * Asking for too little is just a missed opportunity
 
@@ -175,7 +177,7 @@ Either approach can work with either stance <!-- .element: class="fragment" -->
 
 
 ## Higher power
-* Pretend lack of authority to decide
+* Pretend (or have a) lack of authority to decide
 
 * Makes it harder on the other party to push you
 
