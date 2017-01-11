@@ -3,7 +3,7 @@ module.exports = function(grunt) {
 	var port = grunt.option('port') || 8000;
 	var root = grunt.option('webdir') || grunt.option('base') || '.';
 
-	if (!Array.isArray(root)) root = ['.', root];
+	if (!Array.isArray(root)) root = [root, '.'];
 
 	// Project configuration
 	grunt.initConfig({
