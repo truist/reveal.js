@@ -69,3 +69,5 @@
 
 ## [@truist](http://twitter.com/truist)
 
+These slides: <https://github.com/truist/reveal.js/>
+
