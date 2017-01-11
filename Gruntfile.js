@@ -1,7 +1,9 @@
 /* global module:false */
 module.exports = function(grunt) {
 	var port = grunt.option('port') || 8000;
-	var base = grunt.option('webdir') || grunt.option('base') || '.';
+	var root = grunt.option('webdir') || grunt.option('base') || '.';
+
+	if (!Array.isArray(root)) root = ['.', root];
 
 	// Project configuration
 	grunt.initConfig({
@@ -69,6 +71,7 @@ module.exports = function(grunt) {
 				curly: false,
 				eqeqeq: true,
 				immed: true,
+				esnext: true,
 				latedef: true,
 				newcap: true,
 				noarg: true,
@@ -95,11 +98,12 @@ module.exports = function(grunt) {
                     hostname: '127.0.0.1',
 					port: port,
                     useAvailablePort: true,
-					base: ['.', base],
+					base: root,
 					livereload: true,
 					open: true
 				}
-			}
+			},
+
 		},
 
 		zip: {
@@ -115,9 +119,6 @@ module.exports = function(grunt) {
 		},
 
 		watch: {
-			options: {
-				livereload: true
-			},
 			js: {
 				files: [ 'Gruntfile.js', 'js/reveal.js' ],
 				tasks: 'js'
@@ -131,11 +132,20 @@ module.exports = function(grunt) {
 				tasks: 'css-core'
 			},
 			html: {
-				files: [ 'index.html']
+				files: root.map(path => path + '/*.html')
 			},
 			markdown: {
-				files: [ './*.md' ]
+				files: root.map(path => path + '/*.md')
+			},
+			options: {
+				livereload: true
 			}
+		},
+
+		retire: {
+			js: ['js/reveal.js', 'lib/js/*.js', 'plugin/**/*.js'],
+			node: ['.'],
+			options: {}
 		}
 
 	});
@@ -150,6 +160,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks( 'grunt-contrib-connect' );
 	grunt.loadNpmTasks( 'grunt-autoprefixer' );
 	grunt.loadNpmTasks( 'grunt-zip' );
+	grunt.loadNpmTasks( 'grunt-retire' );
 
 	// Default task
 	grunt.registerTask( 'default', [ 'css', 'js' ] );
