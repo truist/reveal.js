@@ -1,9 +1,14 @@
 ## Agenda
 * Start eating!
+
 * Fundamentals of juggling
+
 * How we're going to learn
+
 * Stop eating!
+
 * Start learning!
+
 * Resources
 
 
@@ -15,7 +20,7 @@
 
 * Two ball: the juggle
 
-* Three ball: juggling
+* Three balls: juggling
 
 
 ## *FUN*damentals
@@ -30,9 +35,13 @@
 
 ## How we'll learn
 1. One ball: throwing
+
 2. Two balls: the juggle
+
 3. Two balls: the other way
+
 4. Two balls (optional): one-handed juggling
+
 5. Three balls: juggle!
 
 
@@ -41,9 +50,13 @@
 
 ## Learning
 1. One ball: throwing
+
 2. Two balls: the juggle
+
 3. Two balls: the other way
+
 4. Two balls (optional): one-handed juggling
+
 5. Three balls: juggle!
 
 
