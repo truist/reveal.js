@@ -79,58 +79,40 @@ Use your own judgment.
 
 ### Natural fibers
 
-* Cheap
-* Weak (relatively)
-* Secure knots
-* Absorb moisture
-    * Keep their strength
-    * Rot
-* Fray when cut
-* Great for:
-    * Cheap & weak (twine)
-    * Thick & human use (rope bridge, tug of war)
-    * Decoration
+| Upsides | Downsides | Good Uses |
+|---------|-----------|-----------|
+| Cheap; secure knots; strong when wet | Weak (relatively); rot; fray when cut | Cheap & weak (twine); thick & human use (rope railing, rope bridge, tug of war); decoration |
 
 
 ### Polypropylene ("good")
 
-* Water- and electrical-resistant
-* Floats
-* Cheapest
-* What you'll find most easily at Home Depot
-* Not great for knots
-* Stretches permanently
-* NOT UV-resistant
-    * Unless infused with UV-absorbing chemicals
-        * Which they often are... without telling you
+| Upsides | Downsides | Good Uses |
+|---------|-----------|-----------|
+| Water- and electrical-resistant; floats; cheap | Slippery; stretchy; stretches permanently; NOT UV-resistant | Swimming pools; boating |
 
 
 ### Nylon ("better")
 
-* Cheap
-* Strong
-* Somewhat stretchy
-* Abrasion- and UV-resistant
-* Weakens (15%) in water
-* Recoils when snapped under tension
-* Good all-around rope
+| Upsides | Downsides | Good Uses |
+|---------|-----------|-----------|
+| Cheap; strong; somewhat stretchy; abrasion- and UV-resistant | Somewhat stretchy; weakens (15%) in water; recoils when snapped under tension | Good all-around rope |
 
 
 ### Polyester ("best")
 
-* Similar to nylon, but:
-    * Keeps strength when wet
-    * Better abrasion- and UV-resistance
-    * Not as stretchy (good and bad)
-    * Not quite as strong
-    * Costs more
-* Great for ropes that shouldn't stretch, long-term outdoor use, abrasion protection
-* Not worth the extra cost, otherwise
+Similar to nylon, but:
+
+| Upsides | Downsides | Good Uses |
+|---------|-----------|-----------|
+| Keeps strength when wet; better abrasion- and UV-resistance; not as stretchy | Not as stretchy; not quite as strong; costs more | Long-term outdoor use; abrasion protection; when you need rope that doesn't stretch (as much) |
+
+Not worth the extra cost, if you don't need it
 
 
 ## Then, choose how it's made
 
 * Fibers ➜  strands (yarns) ➜  twisted / woven
+
 * Twisting / weaving determines:
     * Strength
     * Stretch
@@ -206,16 +188,18 @@ Use your own judgment.
 
 ## Terminology
 
-INSERT PICTURE FROM BOOK
+<img src="http://howtowilderness.com/wordpress/wp-content/uploads/2011/10/RopeTermsLabeled.jpg" />
+
+(And hundreds more...)
 
 
 ## Grog Knots
 
-* It's a big game-changer to have a handy reference
-    * [animatedknots.com](http://www.animatedknots.com)
+* It's a game-changer to have a reference in your pocket
+    * [animatedknots.com](http://www.animatedknots.com) (ads)
     * [iOS app](https://itunes.apple.com/us/app/animated-knots-by-grog/id376302649?mt=8) ($5)
     * [Android app](https://play.google.com/store/apps/details?id=com.animatedknots.knots&hl=en) ($5)
-    * [Windows app](http://www.animatedknots.com/purchasewin.php) (huh???) ($5)
+    * [Windows app](http://www.animatedknots.com/purchasewin.php)?!? ($5)
 
 
 ## Why are there so many knots?
@@ -252,62 +236,69 @@ INSERT PICTURE FROM BOOK
 <h3 class="fragment">(You'll need some rope!)</h3>
 
 
-## Problem: coiling rope
-
-* Memorable: Figure-8 coil (on the arm)
-* Reliable: Gasket coil ("over / under")
-* Cool: Chain sinnet
-
-
 ## Problem: fraying rope ends
 
 * Memorable: melt the ends, or tape
-* In a pinch: Figure 8
+* In a pinch: [Figure 8](http://www.animatedknots.com/fig8_/index.php)
     * Also a decent "stopper" knot
     * Also the basis for a bunch of other knots
+* Quality: [Common Whipping](http://www.animatedknots.com/commonwhipping/index.php)
+* Best: [Sailmaker's Whipping](http://www.animatedknots.com/sailmakers/index.php)
+
+
+## Problem: coiling rope
+
+* Memorable: [Figure-8 coil](http://www.animatedknots.com/coiling/index.php#figure8coil) (on the arm)
+* Traditional: [Gasket coil](http://www.animatedknots.com/coiling/index.php) ("over / under")
+* Cool: [Chain sinnet](http://www.animatedknots.com/chainsinnet/index.php) (doubled)
 
 
 ## Problem: attach rope to a bar
 
 "Hitch"
 
-* Memorable: Lark's Head / Cow Hitch
-    * Only in the middle!
-* Reliable: Round Turn and 2 Half Hitches
-* Cool: Icicle Hitch
-* Cool but risky: Tumble Hitch
+* Memorable: [Lark's Head / Cow Hitch](http://www.animatedknots.com/cowloop/index.php), but tied like a [Girth Hitch](http://www.animatedknots.com/girth/index.php)
+    * Only in the middle of the rope!
+* Reliable: [Round Turn and 2 Half Hitches](http://www.animatedknots.com/roundturn/index.php)
+    * Or really, "Round Turn (or two) and 2 (or more) Half Hitches"
+* Cool: [Icicle Hitch](http://www.animatedknots.com/icicleend/index.php)
+* Cool but risky: [Tumble Hitch](http://www.animatedknots.com/tumble/index.php)
 
 
 ## Problem: tighten a load (or tent)
 
-Use a ratchet strap!
+Use a [ratchet strap](https://www.homedepot.com/b/Hardware-Tie-Down-Straps-Bungee-Cords/N-5yc1vZc2dnZ12kx/Ntk-all/Ntt-ratchet%2Bstraps?NCNI-5)!
 
-* Memorable: Midshipman's Hitch
-    * Sidebar: Boy Scouts
-* Cool: Trucker's Hitch
-    * Memorable: a song about it
+* Memorable: [Midshipman's Hitch](http://www.animatedknots.com/midshipmans/index.php)
+    * Sidebar: Boy Scouts and the Taut Line Hitch
+* Cool: [Trucker's Hitch](http://www.animatedknots.com/truckers/index.php)
+    * Memorable: [a song about it](https://www.youtube.com/watch?v=TUHgGK-tImY)
 
 
 ## Problem: join two ropes (or ends)
 
-* Memorable: Double Fisherman's
-    * Memorable but dangerous: (Single) Fisherman's
-* Won't bind: Zeppelin Bend
+* Memorable (but prone to fail): [(Single) Fisherman's](https://en.wikipedia.org/wiki/Fisherman%27s_knot)
+* Better, but harder to get right: [Double Fisherman's](http://www.animatedknots.com/doublefishermans/index.php)
+* Won't bind: [Zeppelin Bend](http://www.animatedknots.com/zeppelin/index.php)
 
 
 ## Problem: loop that won't pull tight
 
-* Memorable: Figure 8 Loop
-* Can tie around an object: Bowline
+* Memorable: [Figure 8 Loop](http://www.animatedknots.com/fig8follow/index.php#Figure8Loop)
+* Can tie around an object: [Bowline](http://www.animatedknots.com/bowline/index.php)
     * Secure the working end!
-* Reliable (and fun): Double Dragon Loop
+    * Lots of variations for particular situations
+    * Pronunciation
+* Reliable (and fun): [Double Dragon Loop](http://www.animatedknots.com/doubledragon/index.php)
     * (Hard to tie around an object)
 
 
 ## Problem: loop in middle of line
 
-* Memorable and reliable, using the line: Alpine Butterfly Loop
-* Memorable and reliable, if you have extra cordage: Prusik
+* Memorable and reliable, using the line: [Alpine Butterfly Loop](https://www.youtube.com/watch?v=n2aRj8dQPRQ)
+    * [Grog's way](http://www.animatedknots.com/alpinebutterfly/index.php) is harder to remember
+    * [Traditional way](https://www.wikihow.com/Tie-an-Alpine-Butterfly-Knot) is maybe easy to remember but is harder to do
+* Memorable and reliable, if you have a separate loop of cord: [Prusik](http://www.animatedknots.com/prusik/index.php)
 
 
 ## Footnotes
