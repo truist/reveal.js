@@ -8,25 +8,35 @@ Use your own judgment.
 ## Safety Tips
 
 * Slip knots
+
 * Your hands are important to you
+
 * Carabiners
 
 
 ## Rope Strength
 
 * Breaking strength / working load / design factor
+
     * 5:1 (for stuff) to 12:1 (for humans)
+
     * Knots
+
     * Sun / water / dirt / abrasion
+
 * "Doubling" a line
+
 * Perpendicular force
 
 
 ## Knot security
 
 * Slippery ropes
+
 * Intermittent loads
+
 * Mis-tied knots
+
 * Wrong knot
 
 
@@ -36,15 +46,20 @@ Use your own judgment.
 ## Cordage
 
 * Cordage
+
     * Twine (thinnest)
+
     * Cord (thin)
+
     * Rope (thicker)
+
 * Line
 
 
 ## Rope-like materials
 
 * Webbing (strap)
+
 * Monofilament
 
 
@@ -68,12 +83,19 @@ Use your own judgment.
 ## First, choose the material
 
 * Natural (plant) fibers
+
     * Manila, hemp, sisal, jute, cotton, ...
+
 * Synthetic
+
     * Polypropylene
+
     * Nylon
+
     * Polyester
+
     * Kevlar, Dyneema, Spectra, other branded materials
+
     * Combinations of synthetics
 
 
@@ -111,7 +133,7 @@ Not worth the extra cost, if you don't need it
 
 ## Then, choose how it's made
 
-* Fibers ➜  strands (yarns) ➜  twisted / woven
+Fibers ➜  strands (yarns) ➜  twisted / woven
 
 * Twisting / weaving determines:
     * Strength
@@ -124,30 +146,36 @@ Not worth the extra cost, if you don't need it
 
 ### Decisions, decisions
 
-* Twisted (cheap, annoying, easy to splice)
-* Braided
-    * Diamond (splice-able, annoying)
-        * Without a core (less expensive, flattens)
-        * With a core (stronger, round)
-    * Solid (smooth, tough, hard to splice, won't unravel)
-        * Without a core (strong)
-        * With a core (depends on the core)
+| Form | Splice-able / unravel-able | Strength | Cost | Notes |
+|------|--------------------------------|----------|------|-------|
+| Twisted | Easy | + | $ | Cheap and easy to splice, but annoying |
+| Diamond Braid | Moderate | ++ | $$ | Can have a core, which adds cost, strength, roundness |
+| Solid Braid | Super-hard | +++ | $$$ | Can have a core, which adds cost, strength |
+
+Cores can be crappy (old carpet yarn), functional (nylon fabric), great (another rope!)
 
 
 ### "Double braid"
 
 * A braided rope with another braided rope inside it!
+
 * Inner for strength, outer for protection (usually)
+
 * Strongest
+
 * "Kernmantle" and "arborist" ropes
+
 * "Paracord"
 
 
 ## Then, choose a thickness
 
 * Thicker is stronger
+
     * and heavier
+
     * and expensiver
+
     * and thicker
 
 
@@ -196,38 +224,56 @@ Not worth the extra cost, if you don't need it
 ## Grog Knots
 
 * It's a game-changer to have a reference in your pocket
+
     * [animatedknots.com](http://www.animatedknots.com) (ads)
+
     * [iOS app](https://itunes.apple.com/us/app/animated-knots-by-grog/id376302649?mt=8) ($5)
+
     * [Android app](https://play.google.com/store/apps/details?id=com.animatedknots.knots&hl=en) ($5)
+
     * [Windows app](http://www.animatedknots.com/purchasewin.php)?!? ($5)
 
 
 ## Why are there so many knots?
 
-* Strength vs. first-to-fail
+* Strength differences
+
 * Security vs. quick adjustments
+
 * Stable loading vs. jerks vs. intermittent loads
+
 * Rope texture / slipperiness / flexibility
+
 * Have to be (un)tied while under load
+
 * Have to be (un)tied quickly
+
 * Water, sun, wind
+
 * Rope storage
 
 
 ## How many knots are there?
 
 * [Ashley Book of Knots](https://en.wikipedia.org/wiki/The_Ashley_Book_of_Knots)
+
     * About 3,800
+
     * Published in 1944
+
     * The definitive reference, still today
+
     * Maybe a few-dozen new ones documented, since then
+
 * You don't need to know them all!
 
 
 ## But which ones should I know?
 
 1. Consider the problem(s) you need to solve
+
 2. Consider how hard the knot is to remember
+
 3. Consider how likely the knot is to do what you want
 
 
@@ -239,17 +285,24 @@ Not worth the extra cost, if you don't need it
 ## Problem: fraying rope ends
 
 * Memorable: melt the ends, or tape
+
 * In a pinch: [Figure 8](http://www.animatedknots.com/fig8_/index.php)
+
     * Also a decent "stopper" knot
+
     * Also the basis for a bunch of other knots
+
 * Quality: [Common Whipping](http://www.animatedknots.com/commonwhipping/index.php)
+
 * Best: [Sailmaker's Whipping](http://www.animatedknots.com/sailmakers/index.php)
 
 
 ## Problem: coiling rope
 
 * Memorable: [Figure-8 coil](http://www.animatedknots.com/coiling/index.php#figure8coil) (on the arm)
+
 * Traditional: [Gasket coil](http://www.animatedknots.com/coiling/index.php) ("over / under")
+
 * Cool: [Chain sinnet](http://www.animatedknots.com/chainsinnet/index.php) (doubled)
 
 
@@ -258,10 +311,17 @@ Not worth the extra cost, if you don't need it
 "Hitch"
 
 * Memorable: [Lark's Head / Cow Hitch](http://www.animatedknots.com/cowloop/index.php), but tied like a [Girth Hitch](http://www.animatedknots.com/girth/index.php)
+
     * Only in the middle of the rope!
+
+    * Not double-strength!
+
 * Reliable: [Round Turn and 2 Half Hitches](http://www.animatedknots.com/roundturn/index.php)
+
     * Or really, "Round Turn (or two) and 2 (or more) Half Hitches"
+
 * Cool: [Icicle Hitch](http://www.animatedknots.com/icicleend/index.php)
+
 * Cool but risky: [Tumble Hitch](http://www.animatedknots.com/tumble/index.php)
 
 
@@ -270,41 +330,55 @@ Not worth the extra cost, if you don't need it
 Use a [ratchet strap](https://www.homedepot.com/b/Hardware-Tie-Down-Straps-Bungee-Cords/N-5yc1vZc2dnZ12kx/Ntk-all/Ntt-ratchet%2Bstraps?NCNI-5)!
 
 * Memorable: [Midshipman's Hitch](http://www.animatedknots.com/midshipmans/index.php)
+
     * Sidebar: Boy Scouts and the Taut Line Hitch
-* Cool: [Trucker's Hitch](http://www.animatedknots.com/truckers/index.php)
-    * Memorable: [a song about it](https://www.youtube.com/watch?v=TUHgGK-tImY)
+
+* Stronger: [Trucker's Hitch](http://www.animatedknots.com/truckers/index.php)
+
+    * Cooler: [a song about it](https://www.youtube.com/watch?v=TUHgGK-tImY)
 
 
 ## Problem: join two ropes (or ends)
 
 * Memorable (but prone to fail): [(Single) Fisherman's](https://en.wikipedia.org/wiki/Fisherman%27s_knot)
+
 * Better, but harder to get right: [Double Fisherman's](http://www.animatedknots.com/doublefishermans/index.php)
+
 * Won't bind: [Zeppelin Bend](http://www.animatedknots.com/zeppelin/index.php)
 
 
 ## Problem: loop that won't pull tight
 
 * Memorable: [Figure 8 Loop](http://www.animatedknots.com/fig8follow/index.php#Figure8Loop)
-* Can tie around an object: [Bowline](http://www.animatedknots.com/bowline/index.php)
-    * Secure the working end!
-    * Lots of variations for particular situations
+
+* Most famous: [Bowline](http://www.animatedknots.com/bowline/index.php)
+
+    * Can be easily tied around an object
+
+    * Not perfect, but a good balance of constraints
+
     * Pronunciation
+
 * Reliable (and fun): [Double Dragon Loop](http://www.animatedknots.com/doubledragon/index.php)
+
     * (Hard to tie around an object)
 
 
 ## Problem: loop in middle of line
 
-* Memorable and reliable, using the line: [Alpine Butterfly Loop](https://www.youtube.com/watch?v=n2aRj8dQPRQ)
+* Using the line itself: [Alpine Butterfly Loop](https://www.youtube.com/watch?v=n2aRj8dQPRQ)
+
     * [Grog's way](http://www.animatedknots.com/alpinebutterfly/index.php) is harder to remember
-    * [Traditional way](https://www.wikihow.com/Tie-an-Alpine-Butterfly-Knot) is maybe easy to remember but is harder to do
-* Memorable and reliable, if you have a separate loop of cord: [Prusik](http://www.animatedknots.com/prusik/index.php)
+
+    * [Traditional way](https://www.wikihow.com/Tie-an-Alpine-Butterfly-Knot) is harder to do
+
+* Using a separate loop of cord: [Prusik](http://www.animatedknots.com/prusik/index.php)
 
 
 ## Footnotes
 
-* [Shoelaces](http://news.berkeley.edu/2017/04/11/shoe-string-theory-science-shows-why-shoelaces-come-untied/)
-* [Knot theory](https://en.wikipedia.org/wiki/Knot_theory)
-* [Lashings](https://bit.ly/2MgGuf3)
-* Necktie knot is a slightly-modified [buntline hitch](http://www.animatedknots.com/buntline/index.php)
+* [Shoelaces](http://news.berkeley.edu/2017/04/11/shoe-string-theory-science-shows-why-shoelaces-come-untied/) are a worst-case scenario, for knots
+* [Knot theory](https://en.wikipedia.org/wiki/Knot_theory) - Math!
+* [Lashings](https://bit.ly/2MgGuf3) - Build things!
+* The necktie uses a slightly-modified [buntline hitch](http://www.animatedknots.com/buntline/index.php)
 
