@@ -29,17 +29,6 @@ Use your own judgment.
 * Perpendicular force
 
 
-## Knot security
-
-* Slippery ropes
-
-* Intermittent loads
-
-* Mis-tied knots
-
-* Wrong knot
-
-
 # Rope
 
 
@@ -133,26 +122,15 @@ Not worth the extra cost, if you don't need it
 
 ## Then, choose how it's made
 
-Fibers ➜ strands (yarns) ➜ twisted / woven
+Fibers ➜ strands (yarns) ➜ twisted / braided
 
-* Twisting / weaving determines:
+* Twisting / braided determines:
     * Strength
     * Stretch
     * Splice-ability
     * Unraveling
     * Shape
     * Cost
-
-
-### Decisions, decisions
-
-| Form | Splice-able / unravel-able | Strength | Cost | Notes |
-|------|--------------------------------|----------|------|-------|
-| Twisted | Easy | + | $ | Cheap and easy to splice, but annoying |
-| Diamond Braid | Moderate | ++ | $$ | Can have a core, which adds cost, strength, roundness |
-| Solid Braid | Super-hard | +++ | $$$ | Can have a core, which adds cost, strength |
-
-Cores can be crappy (old carpet yarn), functional (nylon fabric), great (another rope!)
 
 
 ### "Double braid"
@@ -234,25 +212,6 @@ Cores can be crappy (old carpet yarn), functional (nylon fabric), great (another
     * [Windows app](http://www.animatedknots.com/purchasewin.php)?!? ($5)
 
 
-## Why are there so many knots?
-
-* Strength differences
-
-* Security vs. quick adjustments
-
-* Stable loading vs. jerks vs. intermittent loads
-
-* Rope texture / slipperiness / flexibility
-
-* Have to be (un)tied while under load
-
-* Have to be (un)tied quickly
-
-* Water, sun, wind
-
-* Rope storage
-
-
 ## How many knots are there?
 
 * [Ashley Book of Knots](https://en.wikipedia.org/wiki/The_Ashley_Book_of_Knots)
@@ -277,7 +236,7 @@ Cores can be crappy (old carpet yarn), functional (nylon fabric), great (another
 3. Consider how likely the knot is to do what you want
 
 
-# Let's practice!
+# Let's learn some knots!
 
 <h3 class="fragment">(You'll need some rope!)</h3>
 
@@ -325,19 +284,6 @@ Cores can be crappy (old carpet yarn), functional (nylon fabric), great (another
 * Cool but risky: [Tumble Hitch](http://www.animatedknots.com/tumble/index.php)
 
 
-## Problem: tighten a load (or tent)
-
-Use a [ratchet strap](https://www.homedepot.com/b/Hardware-Tie-Down-Straps-Bungee-Cords/N-5yc1vZc2dnZ12kx/Ntk-all/Ntt-ratchet%2Bstraps?NCNI-5)!
-
-* Memorable: [Midshipman's Hitch](http://www.animatedknots.com/midshipmans/index.php)
-
-    * Sidebar: Boy Scouts and the Taut Line Hitch
-
-* Stronger: [Trucker's Hitch](http://www.animatedknots.com/truckers/index.php)
-
-    * Cooler: [a song about it](https://www.youtube.com/watch?v=TUHgGK-tImY)
-
-
 ## Problem: join two ropes (or ends)
 
 * Memorable (but prone to fail): [(Single) Fisherman's](https://en.wikipedia.org/wiki/Fisherman%27s_knot)
@@ -362,6 +308,19 @@ Use a [ratchet strap](https://www.homedepot.com/b/Hardware-Tie-Down-Straps-Bunge
 * Reliable (and fun): [Double Dragon Loop](http://www.animatedknots.com/doubledragon/index.php)
 
     * (Hard to tie around an object)
+
+
+## Problem: tighten a load (or tent)
+
+Use a [ratchet strap](https://www.homedepot.com/b/Hardware-Tie-Down-Straps-Bungee-Cords/N-5yc1vZc2dnZ12kx/Ntk-all/Ntt-ratchet%2Bstraps?NCNI-5)!
+
+* Memorable: [Midshipman's Hitch](http://www.animatedknots.com/midshipmans/index.php)
+
+    * (Boy Scouts teach the Taut Line Hitch, which isn't as good)
+
+* Stronger: [Trucker's Hitch](http://www.animatedknots.com/truckers/index.php)
+
+    * Cooler: [a song about it](https://www.youtube.com/watch?v=TUHgGK-tImY)
 
 
 ## Problem: loop in middle of line
