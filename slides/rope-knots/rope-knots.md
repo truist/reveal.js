@@ -18,7 +18,7 @@ Use your own judgment.
 
 * Breaking strength / working load / design factor
 
-    * 5:1 (for stuff) to 12:1 (for humans)
+    * 5:1 (for stuff) to 15:1 (for humans)
 
     * Knots
 
@@ -143,7 +143,7 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 
 * "Kernmantle" and "arborist" ropes
 
-* "Paracord"
+* "[Paracord](http://www.ramblinjim.com/articles/everything-you-wanted-to-know-about-paracord/)"
 
 
 ## Then, choose a thickness
@@ -173,9 +173,10 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 
 | Rope | Notes | $/ft |
 |------|------|------:|
-| Cheap twine<br>([rough](https://www.homedepot.com/p/Everbilt-30-x-190-ft-Natural-Twisted-Jute-Twine-72786/206094297) or [cotton](https://www.homedepot.com/p/Everbilt-12-x-420-ft-100-Cotton-Twine-70077/300019713)) | Tie things closed (weakly!)<br>Christmas trees? | $0.01-$0.02 |
-| [1/8" nylon cord](https://www.homedepot.com/p/Everbilt-1-8-in-x-48-ft-White-Braided-Nylon-Rope-72726/206094291) | Most household tasks | $0.10 |
-| [**True** Type III MIL-C-5040 paracord](https://www.amazon.com/gp/product/B00CJICDWO/ref=oh_aui_detailpage_o00_s00?ie=UTF8&th=1&psc=1) (or better) | When it counts, e.g. camping | $0.20 |
+| Cheap & weak twine<br>([rough](https://www.homedepot.com/p/Everbilt-30-x-190-ft-Natural-Twisted-Jute-Twine-72786/206094297) or [cotton](https://www.homedepot.com/p/Everbilt-12-x-420-ft-100-Cotton-Twine-70077/300019713)) | Tie things closed<br>Christmas trees? | $0.01-$0.02 |
+| [1/8" nylon cord](https://www.homedepot.com/p/Everbilt-1-8-in-x-48-ft-White-Braided-Nylon-Rope-72726/206094291) | Household tasks | $0.10 |
+| [Polyester + Nylon "accessory" cord](http://samsonrope.com/Pages/Product.aspx?ProductID=480) in 4mm (5/32") to 6mm (1/4") | Quality cord, but hard to find | [$0.24](http://www.downwindmarine.com/Accessory-Cord-Black-Polyester-Nylon-Samson-p-90891232.html)-[$0.41](https://cbknot.com/samson-accessory-cord-x-300ft-spool/)
+| **True** Type III or IV<br>MIL-C-5040 paracord | Way easier to find, but stretches! | [$0.15](https://www.amazon.com/TOUGH-GRID-550lb-Paracord-Parachute-Cord/dp/B06VWK5Z5N/ref=sr_1_240?th=1&psc=1)-[$0.19](https://www.amazon.com/TOUGH-GRID-750lb-Paracord-Parachute-Cord/dp/B00CJICDT2/ref=pd_sbs_200_1?_encoding=UTF8&pd_rd_i=B07BZCSNZH&pd_rd_r=J24B6VCE2274YTTBBVCX&pd_rd_w=cy69V&pd_rd_wg=DZ9Xj&refRID=J24B6VCE2274YTTBBVCX&th=1&psc=1) |
 | [Ratchet straps](https://www.homedepot.com/b/Hardware-Tie-Down-Straps-Bungee-Cords/N-5yc1vZc2dnZ12kx/Ntk-all/Ntt-ratchet%2Bstraps?NCNI-5) | Attaching heavy things to vehicles | $0.40 |
 
 
