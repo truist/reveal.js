@@ -175,7 +175,7 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 |------|------|------:|
 | Cheap twine<br>([rough](https://www.homedepot.com/p/Everbilt-30-x-190-ft-Natural-Twisted-Jute-Twine-72786/206094297) or [cotton](https://www.homedepot.com/p/Everbilt-12-x-420-ft-100-Cotton-Twine-70077/300019713)) | Tie things closed (weakly!)<br>Christmas trees? | $0.01-$0.02 |
 | [1/8" nylon cord](https://www.homedepot.com/p/Everbilt-1-8-in-x-48-ft-White-Braided-Nylon-Rope-72726/206094291) | Most household tasks | $0.10 |
-| [**True** "mil-spec" paracord](https://www.amazon.com/gp/product/B00CJICE00/ref=oh_aui_detailpage_o00_s00?ie=UTF8&th=1&psc=1) | When it counts, e.g. camping | $0.20 |
+| [**True** Type III MIL-C-5040 paracord](https://www.amazon.com/gp/product/B00CJICDWO/ref=oh_aui_detailpage_o00_s00?ie=UTF8&th=1&psc=1) (or better) | When it counts, e.g. camping | $0.20 |
 | [Ratchet straps](https://www.homedepot.com/b/Hardware-Tie-Down-Straps-Bungee-Cords/N-5yc1vZc2dnZ12kx/Ntk-all/Ntt-ratchet%2Bstraps?NCNI-5) | Attaching heavy things to vehicles | $0.40 |
 
 
