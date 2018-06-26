@@ -261,9 +261,9 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 
 * Memorable: [Figure-8 coil](http://www.animatedknots.com/coiling/index.php#figure8coil) (on the arm)
 
-* Traditional: [Gasket coil](http://www.animatedknots.com/coiling/index.php) ("over / under")
-
 * Cool: [Chain sinnet](http://www.animatedknots.com/chainsinnet/index.php) (doubled)
+
+* Best: [Gasket coil](http://www.animatedknots.com/coiling/index.php) ("over / under")
 
 
 ## Problem: attach rope to a bar
