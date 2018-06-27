@@ -1,5 +1,7 @@
 # Disclaimers
 
+I knew a lot about knots. I learned a lot about rope, to prepare for this.
+
 This is "useful knowledge for around the house".
 
 Use your own judgment.
@@ -29,6 +31,11 @@ Use your own judgment.
 * Perpendicular force
 
 
+## Before we get started...
+
+Please start preparing rope pieces
+
+
 # Rope
 
 
@@ -49,7 +56,9 @@ Use your own judgment.
 
 * Webbing (strap)
 
-* Monofilament
+* Monofilament (fishing line)
+
+* Shock cord (bungee cord)
 
 
 ## There is no perfect rope
@@ -166,6 +175,11 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 <img src="/img/cost_strength.png" style="max-height: 700px;" />
 
 
+# Let's look at some samples!
+
+(But let's learn the [Figure 8](http://www.animatedknots.com/fig8_/index.php) first)
+
+
 # Just tell me what I should use, already!
 
 
@@ -174,18 +188,29 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 | Rope | Notes | $/ft |
 |------|------|------:|
 | Cheap & weak twine<br>([rough](https://www.homedepot.com/p/Everbilt-30-x-190-ft-Natural-Twisted-Jute-Twine-72786/206094297) or [cotton](https://www.homedepot.com/p/Everbilt-12-x-420-ft-100-Cotton-Twine-70077/300019713)) | Tie things closed<br>Christmas trees? | $0.01-$0.02 |
-| [1/8" nylon cord](https://www.homedepot.com/p/Everbilt-1-8-in-x-48-ft-White-Braided-Nylon-Rope-72726/206094291) | Household tasks | $0.10 |
-| [Polyester + Nylon "accessory" cord](http://samsonrope.com/Pages/Product.aspx?ProductID=480) in 4mm (5/32") to 6mm (1/4") | Quality cord, but hard to find | [$0.24](http://www.downwindmarine.com/Accessory-Cord-Black-Polyester-Nylon-Samson-p-90891232.html)-[$0.41](https://cbknot.com/samson-accessory-cord-x-300ft-spool/)
-| **True** Type III or IV<br>MIL-C-5040 paracord | Way easier to find, but stretches! | [$0.15](https://www.amazon.com/TOUGH-GRID-550lb-Paracord-Parachute-Cord/dp/B06VWK5Z5N/ref=sr_1_240?th=1&psc=1)-[$0.19](https://www.amazon.com/TOUGH-GRID-750lb-Paracord-Parachute-Cord/dp/B00CJICDT2/ref=pd_sbs_200_1?_encoding=UTF8&pd_rd_i=B07BZCSNZH&pd_rd_r=J24B6VCE2274YTTBBVCX&pd_rd_w=cy69V&pd_rd_wg=DZ9Xj&refRID=J24B6VCE2274YTTBBVCX&th=1&psc=1) |
-| [Ratchet straps](https://www.homedepot.com/b/Hardware-Tie-Down-Straps-Bungee-Cords/N-5yc1vZc2dnZ12kx/Ntk-all/Ntt-ratchet%2Bstraps?NCNI-5) | Attaching heavy things to vehicles | $0.40 |
+| [3mm (1/8") polyester & nylon double-braided "utility" cord](https://www.rei.com/product/799630/pmi-3mm-utility-cord-package-of-50-ft) | Quality cord, but still inexpensive | $0.10 |
+| ...or [**true** Type III MIL-C-5040 paracord](https://www.amazon.com/TOUGH-GRID-550lb-Paracord-Parachute-Cord/dp/B06VWK5Z5N/ref=sr_1_240?th=1&psc=1) | Soft, many uses, lots of scams, stretches | $0.15 |
+| [Zip ties](https://www.amazon.com/Cable-Pounds-Tensile-Strength-Pieces/dp/B0797RKSF7/ref=zg_bs_507844_10) | Whatever size you prefer | $0.15 |
 
 
-## For long-term outdoor projects
+## Bigger / outdoor work
 
 | Rope | Notes | $/ft |
 |------|------|------:|
-| [Polyester + polypropylene](https://www.knotandrope.com/store/pc/viewCategories.asp?idCategory=78)<br>or<br>[polyester + nylon](https://www.knotandrope.com/store/pc/Bull-Rope-c29.htm)<br>double braid | Swing, hammock, rope bridge<br>Choose diameter for strength<br>Knots well and will stay strong<br>Not stretchy | $0.75+ |
-| **Don't** use [polypropylene](https://www.homedepot.com/p/Everbilt-1-2-in-x-100-ft-Assorted-Color-Diamond-Braid-Polypropylene-Heavy-Duty-Rope-72465/206094275)! | Slippery, UV-vulnerable, stretchy | ~$0.20/ft |
+| [Ratchet straps](https://www.homedepot.com/b/Hardware-Tie-Down-Straps-Bungee-Cords/N-5yc1vZc2dnZ12kx/Ntk-all/Ntt-ratchet%2Bstraps?NCNI-5) | Attaching heavy things to vehicles | $0.40 |
+| [Double-braid polyester over other synthetic](https://www.knotandrope.com/store/pc/Rigging-Rope-c143.htm) | Long-term heavy outdoor projects: swing, hammock, rope bridge, tree work | ~$0.75 |
+
+<br>
+<h3 class="fragment">Don't buy polypropylene!</h3>
+
+
+## Where to buy
+
+* Locally: [REI](https://www.rei.com/stores/cleveland.html) (or online)
+
+* Online: [Knot & Rope Supply](https://www.knotandrope.com/store/pc/home.asp)
+
+* Avoid: Home Depot, Amazon
 
 
 # Knots
@@ -215,7 +240,7 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 
 ## How many knots are there?
 
-* [Ashley Book of Knots](https://en.wikipedia.org/wiki/The_Ashley_Book_of_Knots)
+* [Ashley Book of Knots](https://en.wikipedia.org/wiki/The_Ashley_Book_of_Knots) ("ABOK")
 
     * About 3,800
 
@@ -234,7 +259,9 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 
 2. Consider how hard the knot is to remember
 
-3. Consider how likely the knot is to do what you want
+3. Consider how (un)likely the knot is to be annoying
+
+4. Consider how likely the knot is to fail disastrously
 
 
 # Let's learn some knots!
@@ -242,7 +269,7 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 <h3 class="fragment">(You'll need some rope!)</h3>
 
 
-## Problem: fraying rope ends
+## Fraying rope ends
 
 * Memorable: melt the ends, or tape
 
@@ -257,7 +284,7 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 * Best: [Sailmaker's Whipping](http://www.animatedknots.com/sailmakers/index.php)
 
 
-## Problem: coiling rope
+## Coiling rope
 
 * Memorable: [Figure-8 coil](http://www.animatedknots.com/coiling/index.php#figure8coil) (on the arm)
 
@@ -266,9 +293,7 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 * Best: [Gasket coil](http://www.animatedknots.com/coiling/index.php) ("over / under")
 
 
-## Problem: attach rope to a bar
-
-"Hitch"
+## Attach ("hitch") rope to a bar
 
 * Memorable: [Lark's Head / Cow Hitch](http://www.animatedknots.com/cowloop/index.php), but tied like a [Girth Hitch](http://www.animatedknots.com/girth/index.php)
 
@@ -285,16 +310,45 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 * Cool but risky: [Tumble Hitch](http://www.animatedknots.com/tumble/index.php)
 
 
-## Problem: join two ropes (or ends)
+## Join two ropes (or ends)
 
-* Memorable (but prone to fail): [(Single) Fisherman's](https://en.wikipedia.org/wiki/Fisherman%27s_knot)
+* Memorable, but prone to fail or bind: [(Single) Fisherman's](https://en.wikipedia.org/wiki/Fisherman%27s_knot)
 
 * Better, but harder to get right: [Double Fisherman's](http://www.animatedknots.com/doublefishermans/index.php)
 
 * Won't bind: [Zeppelin Bend](http://www.animatedknots.com/zeppelin/index.php)
 
 
-## Problem: loop that won't pull tight
+## Tighten a load (or tent)
+
+* Memorable: [Midshipman's Hitch](http://www.animatedknots.com/midshipmans/index.php)
+
+    * (Boy Scouts teach the Taut Line Hitch, which isn't as good)
+
+* Stronger: [Trucker's Hitch](http://www.animatedknots.com/truckers/index.php)
+
+    * Cooler: [a song about it](https://www.youtube.com/watch?v=TUHgGK-tImY)
+
+<br>
+<p class="fragment">Use a [ratchet strap](https://www.homedepot.com/b/Hardware-Tie-Down-Straps-Bungee-Cords/N-5yc1vZc2dnZ12kx/Ntk-all/Ntt-ratchet%2Bstraps?NCNI-5)!</p>
+
+
+## Loop in middle of a line
+
+* Using the line itself:
+
+    * Memorable, once learned: [Directional Figure 8 Loop](http://www.animatedknots.com/fig8directional/index.php)
+
+    * Cool and more general: [Alpine Butterfly Loop](https://www.youtube.com/watch?v=n2aRj8dQPRQ)
+
+        * [Grog's way](http://www.animatedknots.com/alpinebutterfly/index.php) is harder to remember
+
+        * [Traditional way](https://www.wikihow.com/Tie-an-Alpine-Butterfly-Knot) is harder to do
+
+* Using a separate loop of cord: [Prusik](http://www.animatedknots.com/prusik/index.php)
+
+
+## Loop that won't pull tight
 
 * Memorable: [Figure 8 Loop](http://www.animatedknots.com/fig8follow/index.php#Figure8Loop)
 
@@ -308,34 +362,12 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 
 * Reliable (and fun): [Double Dragon Loop](http://www.animatedknots.com/doubledragon/index.php)
 
-    * (Hard to tie around an object)
+    * Hard to tie around an object
 
 
-## Problem: tighten a load (or tent)
+## Odds and ends
 
-Use a [ratchet strap](https://www.homedepot.com/b/Hardware-Tie-Down-Straps-Bungee-Cords/N-5yc1vZc2dnZ12kx/Ntk-all/Ntt-ratchet%2Bstraps?NCNI-5)!
-
-* Memorable: [Midshipman's Hitch](http://www.animatedknots.com/midshipmans/index.php)
-
-    * (Boy Scouts teach the Taut Line Hitch, which isn't as good)
-
-* Stronger: [Trucker's Hitch](http://www.animatedknots.com/truckers/index.php)
-
-    * Cooler: [a song about it](https://www.youtube.com/watch?v=TUHgGK-tImY)
-
-
-## Problem: loop in middle of line
-
-* Using the line itself: [Alpine Butterfly Loop](https://www.youtube.com/watch?v=n2aRj8dQPRQ)
-
-    * [Grog's way](http://www.animatedknots.com/alpinebutterfly/index.php) is harder to remember
-
-    * [Traditional way](https://www.wikihow.com/Tie-an-Alpine-Butterfly-Knot) is harder to do
-
-* Using a separate loop of cord: [Prusik](http://www.animatedknots.com/prusik/index.php)
-
-
-## Footnotes
+* Clotheslines are a special problem (strong, soft, won't sag, won't rust, cheap): [Cotton over polyester](https://www.homedepot.com/p/T-W-Evans-Cordage-7-32-in-x-100-ft-Evandale-Cotton-Clothesline-Hank-43-070/205326942) ($0.11/ft)
 
 * [Shoelaces](http://news.berkeley.edu/2017/04/11/shoe-string-theory-science-shows-why-shoelaces-come-untied/) are a worst-case scenario, for knots
 
@@ -344,6 +376,10 @@ Use a [ratchet strap](https://www.homedepot.com/b/Hardware-Tie-Down-Straps-Bunge
 * [Lashings](https://bit.ly/2MgGuf3) - Build things!
 
 * The necktie uses a slightly-modified [buntline hitch](http://www.animatedknots.com/buntline/index.php)
+
+* Given an unknown rope, it might have [identifying markings](https://www.tensiontech.com/tools-guides/rope-colour-markings)
+
+* High-end ropes are measured in [kiloNewtons](https://en.wikipedia.org/wiki/Newton_(unit) - roughly 1kN per person
 
 These slides: [https://github.com/truist/reveal.js](https://github.com/truist/reveal.js/blob/master/slides/rope-knots/rope-knots.md) ➜ slides ➜ rope-knots
 
