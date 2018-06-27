@@ -369,6 +369,8 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 
 * Clotheslines are a special problem (strong, soft, won't sag, won't rust, cheap): [Cotton over polyester](https://www.homedepot.com/p/T-W-Evans-Cordage-7-32-in-x-100-ft-Evandale-Cotton-Clothesline-Hank-43-070/205326942) ($0.11/ft)
 
+* [Hammocks, too](https://www.whoopieslings.com)
+
 * [Shoelaces](http://news.berkeley.edu/2017/04/11/shoe-string-theory-science-shows-why-shoelaces-come-untied/) are a worst-case scenario, for knots
 
 * [Knot theory](https://en.wikipedia.org/wiki/Knot_theory) - Math!
@@ -381,5 +383,8 @@ Fibers ➜ strands (yarns) ➜ twisted / braided
 
 * High-end ropes are measured in [kiloNewtons](https://en.wikipedia.org/wiki/Newton_(unit) - roughly 1kN per person
 
-These slides: [https://github.com/truist/reveal.js](https://github.com/truist/reveal.js/blob/master/slides/rope-knots/rope-knots.md) ➜ slides ➜ rope-knots
+
+These slides:
+
+[https://github.com/truist/reveal.js](https://github.com/truist/reveal.js/blob/master/slides/rope-knots/rope-knots.md) ➜ slides ➜ rope-knots
 
