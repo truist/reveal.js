@@ -60,6 +60,7 @@ See that experience report above, and [this article](https://medium.com/@maaret.
 
 * Switch every N minutes
     * What N, today? 5?
+    * How will we keep track?
 * Driver focuses on one task at a time
 * Navigator(s) look ahead
 * There's no "right" level of abstraction

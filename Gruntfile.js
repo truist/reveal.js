@@ -95,7 +95,7 @@ module.exports = function(grunt) {
     connect: {
       server: {
         options: {
-          hostname: '127.0.0.1',
+          hostname: '*',
           port: port,
           useAvailablePort: true,
           base: root,
