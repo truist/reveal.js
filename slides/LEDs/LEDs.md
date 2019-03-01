@@ -1,5 +1,5 @@
 
-Trying to attain **LEED** certification **led** me to buy lots of **LEDs** (**lead**-free, of course), which will **lead** to lower electricity consumption, fewer dangerous chemicals, less bulb maintenance, and reduced lifetime cost.
+Trying to attain **LEED** certification **led** me to buy lots of **lead**-free **LEDs** which will **lead** to lower electricity consumption, fewer dangerous chemicals, less bulb maintenance, and reduced lifetime cost.
 
 
 ## Which LED bulbs should I buy?
@@ -48,7 +48,7 @@ It's easy, right? Just get a 75W light bulb. But in LED.
 
 ## Why do LEDs have to be so difficult?
 
-<h2 class="fragment">Heat, legacy components, and color</h2>
+<h3 class="fragment">Heat, legacy components, and color</h3>
 
 
 ## Heat #1: Light generation
@@ -88,9 +88,10 @@ It's easy, right? Just get a 75W light bulb. But in LED.
 
 ## Legacy component #1: Dimmers
 
-* Traditional dimmers work by lowering the voltage. But LEDs don't change brightness with voltage changes (mostly).
+* Traditional dimmers work by lowering the voltage. But LEDs don't change brightness with voltage (mostly).
 
-* But you can simulate it by flickering them off and on very quickly! So dimmable LEDs have more circuitry to detect the voltage drop and flicker the LED at a corresponding rate.
+* But you can simulate it by flickering them off and on very quickly!
+* So dimmable LEDs have more circuitry to detect the voltage drop and flicker the LED at a corresponding rate.
     * Dimmable LEDs typically cost ~2x equivalent non-dimmable.
 
 * But traditional dimmers had an assumed "minimum current draw" of e.g. 30 watts - more than an LED at full power! So they often glitch out with LEDs.
@@ -99,7 +100,9 @@ It's easy, right? Just get a 75W light bulb. But in LED.
 
 ## Legacy component #2: 3-way bulbs
 
-* 3-way incandescent bulbs actually have two filaments, and the fixture (the switch) routes electricity differently depending on the mode you are in? (00, 01, 10, 11)
+* 3-way incandescent bulbs actually have two filaments, and the fixture (the switch) routes electricity differently depending on the mode you are in.
+
+* It's binary! (00, 01, 10, 11)
 
 * 3-way LEDs exist, based on the same idea.
 
@@ -112,11 +115,10 @@ It's easy, right? Just get a 75W light bulb. But in LED.
     * The spectrum of wavelengths it emits.
     * The strength of the parts of that spectrum, which determines the overall color it appears to be.
 
-* When you heat tungsten enough, it naturally makes light across the entire color spectrum, with a predominantly-"warm" (yellow) color. Incandescent light bulbs!
+* When you heat tungsten enough, it naturally makes light across the entire color spectrum, with a predominantly-"warm" (yellow) color.
+    * I.e. incandescent light bulbs!
 
-* LEDs (the diodes) generate light at individual specific wavelengths, depending on their chemical composition.
-
-* So because LEDs aren't heat-based, they have this big problem with generating a broad spectrum of light.
+* LEDs (the diodes) generate light at individual specific wavelengths, depending on their chemical composition - so they have nearly-no spectrum!
 
 
 ## Why should we care about spectrum?
@@ -172,6 +174,8 @@ We'll come back to that later.
 
 We measure the "color" of a light in units of temperature (because we historically made light by heating things), but high temperatures result in "cool" (blue) colors, and low temperatures result in "warm" (red) colors.
 
+<p class="fragment">(If we measured color by wavelength, we'd have the same problem.)</p>
+
 <h3 class="fragment">Oh. OK then.</h3>
 
 
@@ -208,9 +212,9 @@ We measure the "color" of a light in units of temperature (because we historical
 * Brightness is no-longer meaningfully measured in "watts" (i.e. electricity consumption), so it's time to learn "lumens".
     * 800 (60), 1100 (75), 1600 (100), and so on.
 
-* Those circuit boards don't like to get wet. So you have to get "suitable for damp locations" for e.g. bathrooms, outdoors, basements.
+* Circuit boards don't like to get wet. So you have to get "suitable for damp locations" for e.g. bathrooms, outdoors, basements.
 
-* And often they contain lead (and arsenic). So you might want to look for "lead free" versions.
+* And some contain lead (and arsenic). So you might want lead-free bulbs.
 
 * When incandescents are dimmed, their color temperature changes. (From 2700 to about 2200.) LEDs don't do that, but it feels weird that they don't. Some LEDs mimic it, now.
 
@@ -263,11 +267,11 @@ Like the [Philips Hue bulbs](https://huetips.com/hue-products-and-specifications
 
 * Watch out for big lies about lumens.
 
-* Consumer-grade LED technology is up to 100-150 lumens per watt.
+* Consumer-grade LED technology is up to ~100-150 lumens per watt.
 
 * 18650 (rechargeable lithium) batteries can provide 1W for about 10 hours, or 10W for 1 hour.
 
-* (A single AA battery can provide 1W for about 3 hours.)
+    * (A single AA battery can provide 1W for about 3 hours.)
 
 * Armed with these facts, you can check the product listing!
 
@@ -323,7 +327,7 @@ Watch those bases! Make sure they match what you need!
 
 * [Bulbs.com](https://bulbs.com/) or [1000bulbs.com](https://1000bulbs.com) if you're buying a bunch at once, or want to get exactly the right thing
 
-* Amazon sometimes just what you need, sometimes not
+* Amazon sometimes has just what you need, sometimes not
 
 
 ## Don't over-buy!
@@ -335,13 +339,14 @@ Once you install these, you won't replace them for decades, so you don't need sp
 
 * There are LEDs designed to fit into shop lights (i.e. tube fluorescent fixtures)
     * Don't buy them!
-    * If you leave the fluorescent ballast in the fixture, you still have all the downsides of fluorescents!
+    * If you leave the fluorescent ballast in the fixture, you still have the electricity use and humming!
 
 * There are conversion kits where you remove the ballast (and re-wire), or you can replace the fixture wholesale.
 
 * Or if those don't seem worth it, just stick with fluorescent bulbs.
 
 
+## That's it!
 
 These slides:
 
