@@ -1,5 +1,5 @@
 
-Trying to attain **LEED** certification **led** me to buy lots of **lead**-free **LEDs** which will **lead** to lower electricity consumption, fewer dangerous chemicals, less bulb maintenance, and reduced lifetime cost.
+Trying to attain **LEED** certification **led** me to buy lots of **lead**-free **LEDs** which will **lead** to lower electricity consumption, less bulb maintenance, and reduced cost.
 
 
 ## Which LED bulbs should I buy?
@@ -12,19 +12,15 @@ It's easy, right? Just get a 75W light bulb. But in LED.
 
 <h3 class="fragment">Oh. OK then.</h3>
 
-
-## What the hell?!?
-
-<p class="fragment">Yeah.</p>
-
 <p class="fragment">Skip to the end if you just want the tl;dr version.</p>
+
 
 
 ## What were all those things again?
 
 * Electricity consumption
 * Brightness
-* Color temperature
+* Color "temperature"
 * Light spectrum
 * "Features" (dimmable, warm-dimming, dampable, enclosable)
 * Chemical composition
@@ -74,8 +70,6 @@ It's easy, right? Just get a 75W light bulb. But in LED.
 
 * Those AC-to-DC circuits generate waste heat.
 
-* And LEDs are heat-susceptible!
-
 
 ## How do LED bulbs manage heat?
 
@@ -91,11 +85,12 @@ It's easy, right? Just get a 75W light bulb. But in LED.
 * Traditional dimmers work by lowering the voltage. But LEDs don't change brightness with voltage (mostly).
 
 * But you can simulate it by flickering them off and on very quickly!
+
 * So dimmable LEDs have more circuitry to detect the voltage drop and flicker the LED at a corresponding rate.
     * Dimmable LEDs typically cost ~2x equivalent non-dimmable.
 
 * But traditional dimmers had an assumed "minimum current draw" of e.g. 30 watts - more than an LED at full power! So they often glitch out with LEDs.
-    * (Now you can buy LED-compatible dimmers.)
+    * So now you can buy LED-compatible dimmers.
 
 
 ## Legacy component #2: 3-way bulbs
@@ -113,7 +108,7 @@ It's easy, right? Just get a 75W light bulb. But in LED.
 
 * There are two aspects to light bulb color:
     * The spectrum of wavelengths it emits.
-    * The strength of the parts of that spectrum, which determines the overall color it appears to be.
+    * The strength of the wavelengths of that spectrum, which determines the overall color it appears to be.
 
 * When you heat tungsten enough, it naturally makes light across the entire color spectrum, with a predominantly-"warm" (yellow) color.
     * I.e. incandescent light bulbs!
@@ -155,7 +150,7 @@ We'll come back to that later.
 <h3 class="fragment">Oh. OK then.</h3>
 
 
-## No really, what?!?
+## Black body what?!?
 
 * [A color temperature](https://en.wikipedia.org/wiki/Color_temperature) (e.g. 2700K) tells you the color you'd actually perceive if you heated an ideal-for-this-purpose ([black body](https://en.wikipedia.org/wiki/Black_body)) material up to that temperature.
 
@@ -252,7 +247,7 @@ Like the [Philips Hue bulbs](https://huetips.com/hue-products-and-specifications
 
 * Similar tradeoffs, but worse:
 
-    * Worse color than incandescent and LED
+    * Worse spectrum than incandescent and LED
     * Cold-sensitive (so hard to use outdoors)
         * But not hot-sensitive
     * Higher electricity use than LEDs
@@ -267,13 +262,14 @@ Like the [Philips Hue bulbs](https://huetips.com/hue-products-and-specifications
 
 * Watch out for big lies about lumens.
 
-* Consumer-grade LED technology is up to ~100-150 lumens per watt.
+* Here's how to check:
 
-* 18650 (rechargeable lithium) batteries can provide 1W for about 10 hours, or 10W for 1 hour.
+    * Consumer-grade LED technology is up to ~100-150 lumens per watt.
 
-    * (A single AA battery can provide 1W for about 3 hours.)
+    * 18650 (rechargeable lithium) batteries can provide 1W for about 10 hours, or 10W for 1 hour.
 
-* Armed with these facts, you can check the product listing!
+        * (A single AA battery can provide 1W for about 3 hours.)
+
 
 
 ## Let's check one!
