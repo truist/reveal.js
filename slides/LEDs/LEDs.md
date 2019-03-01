@@ -345,5 +345,5 @@ Once you install these, you won't replace them for decades, so you don't need sp
 
 These slides:
 
-[https://github.com/truist/reveal.js](https://github.com/truist/reveal.js/blob/master/slides/rope-knots/rope-knots.md) ➜ slides ➜ rope-knots
+[https://github.com/truist/reveal.js](https://github.com/truist/reveal.js/blob/master/slides/LEDs/LEDs.md) ➜ slides ➜ LEDs
 
