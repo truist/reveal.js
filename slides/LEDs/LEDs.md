@@ -6,13 +6,13 @@ Trying to attain **LEED** certification **led** me to buy lots of **lead**-free 
 
 It's easy, right? Just get a 75W light bulb. But in LED.
 
-<p class="fragment">Right, just get a 9W 1100-lumen 2700K 90+ CRI dimmable (with warm-dimming) damp- and enclosed-suitable lead-free E26 base A19 LED bulb.</p>
+<p class="fragment">Right, just get a 9W, 1100-lumen, 2700K, 90+ CRI, dimmable (with warm-dimming), damp- and enclosed-suitable, lead-free, E26 base, A19 bulb, LED bulb.</p>
 
 <h3 class="fragment">Oh, and no such bulb exists.</h3>
 
 <h3 class="fragment">Oh. OK then.</h3>
 
-<p class="fragment">Skip to the end if you just want the tl;dr version.</p>
+<p class="fragment">(Skip to the end if you just want the tl;dr version.)</p>
 
 
 
@@ -20,7 +20,7 @@ It's easy, right? Just get a 75W light bulb. But in LED.
 
 * Electricity consumption
 * Brightness
-* Color "temperature"
+* Color
 * Light spectrum
 * "Features" (dimmable, warm-dimming, dampable, enclosable)
 * Chemical composition
@@ -53,7 +53,8 @@ It's easy, right? Just get a 75W light bulb. But in LED.
 
 * They literally work by heating a wire until it glows.
 
-* LEDs (the actual light-emitting part) waste much less electricity. ("Only" 60-70% of it - a 10x improvement!)
+* LEDs (the actual light-emitting part) waste much less electricity.
+    * ("Only" 60-70% of it - a 10x improvement!)
 
 * But they're also way more heat-sensitive!
 
@@ -80,7 +81,18 @@ It's easy, right? Just get a 75W light bulb. But in LED.
 * (Or "Suitable for enclosed locations".)
 
 
-## Legacy component #1: Dimmers
+## Legacy component #1: Bulb shape
+
+* For incandescent bulbs, it makes functional sense to put the naturally omni-directional filament in the middle of a globe-shaped bulb. But then you have to run the power in from somewhere, so it ends up light-bulb-shaped.
+
+* LEDs are naturally flat, and need to be smashed up against a heat sink - so "omni-directional" is very hard.
+
+* But existing lamps and e.g. ceiling fixtures expect bulb-shaped bulbs, which is a big design and engineering challenge for LEDs.
+
+* (OTOH, [fixtures designed around LEDs](https://d28m5bx785ox17.cloudfront.net/v1/img/JyNs9KmDs-83Ex5pnp09f4A1pWKf18B-khT_vV-yemI=/sc/600x600) can be awesome!)
+
+
+## Legacy component #2: Dimmers
 
 * Traditional dimmers work by lowering the voltage. But LEDs don't change brightness with voltage (mostly).
 
@@ -89,17 +101,17 @@ It's easy, right? Just get a 75W light bulb. But in LED.
 * So dimmable LEDs have more circuitry to detect the voltage drop and flicker the LED at a corresponding rate.
     * Dimmable LEDs typically cost ~2x equivalent non-dimmable.
 
-* But traditional dimmers had an assumed "minimum current draw" of e.g. 30 watts - more than an LED at full power! So they often glitch out with LEDs.
-    * So now you can buy LED-compatible dimmers.
+* But traditional dimmers had a "minimum current draw" of e.g. 30 watts - more than an LED at full power! So they often glitch out with LEDs.
+    * So now you can buy LED-compatible dimmers. (Or LED "systems" that don't try to mimic legacy systems.)
 
 
-## Legacy component #2: 3-way bulbs
+## Legacy component #3: 3-way bulbs
 
 * 3-way incandescent bulbs actually have two filaments, and the fixture (the switch) routes electricity differently depending on the mode you are in.
 
 * It's binary! (00, 01, 10, 11)
 
-* 3-way LEDs exist, based on the same idea.
+* 3-way LEDs exist, based on the same idea, just to fix existing fixtures.
 
 * More circuitry!
 
@@ -152,7 +164,7 @@ We'll come back to that later.
 
 ## Black body what?!?
 
-* [A color temperature](https://en.wikipedia.org/wiki/Color_temperature) (e.g. 2700K) tells you the color you'd actually perceive if you heated an ideal-for-this-purpose ([black body](https://en.wikipedia.org/wiki/Black_body)) material up to that temperature.
+* A [color temperature](https://en.wikipedia.org/wiki/Color_temperature) (e.g. 2700K) tells you the color you'd actually perceive if you heated an ideal-for-this-purpose ([black body](https://en.wikipedia.org/wiki/Black_body)) material up to that temperature.
 
 * So the range goes from [red to yellow to white to blue](https://www.specgradeled.com/led-lighting-color-temperature/).
 
@@ -162,16 +174,18 @@ We'll come back to that later.
 
             * (So what is the color temperature of a green LED?)
 
-<h3 class="fragment">Oh. OK then.</h3>
-
 
 ## Another bit of insanity
 
-We measure the "color" of a light in units of temperature (because we historically made light by heating things), but high temperatures result in "cool" (blue) colors, and low temperatures result in "warm" (red) colors.
+We measure the "color" of a light in units of temperature
+
+(because we historically made light by heating things),
+
+but high temperatures result in "cool" (blue) colors,
+
+and low temperatures result in "warm" (red) colors.
 
 <p class="fragment">(If we measured color by wavelength, we'd have the same problem.)</p>
-
-<h3 class="fragment">Oh. OK then.</h3>
 
 
 ## Now, how do we measure spectrum?
@@ -187,8 +201,6 @@ We measure the "color" of a light in units of temperature (because we historical
     * Because it [seemingly-by-chance matches what we actually do want](https://en.wikipedia.org/wiki/File:Black_body_visible_spectrum.gif).
 
 * But CRI measurement is standardized... which means it can be gamed.
-
-<h3 class="fragment">Oh. OK then.</h3>
 
 <p class="fragment">[Learn lots more by scrolling through this page.](https://www.yujiintl.com/high-cri-led-lighting)</p>
 
@@ -211,6 +223,9 @@ We measure the "color" of a light in units of temperature (because we historical
 
 * And some contain lead (and arsenic). So you might want lead-free bulbs.
 
+
+## Other issues, continued
+
 * When incandescents are dimmed, their color temperature changes. (From 2700 to about 2200.) LEDs don't do that, but it feels weird that they don't. Some LEDs mimic it, now.
 
 * And while we're here, why not also get explicit about [bulb size and shape](http://www.lightopedia.com/bulb-shapes-sizes) and [base size and shape](http://www.lightopedia.com/bases-filament-types)?
@@ -229,7 +244,10 @@ We measure the "color" of a light in units of temperature (because we historical
 
 <h3 class="fragment">It's not the up-front cost that matters.</h3>
 
-<p class="fragment">(In fact, if new LEDs cost less than $3.20, you should just throw away your working incandescents and replace them immediately.)</p>
+
+In fact, if new LEDs cost less than $3.20, you should just throw away your working incandescents and replace them immediately.
+
+<p class="fragment">(If cost is the only consideration.)</p>
 
 
 ## What about "smart" lights?
@@ -238,7 +256,9 @@ Like the [Philips Hue bulbs](https://huetips.com/hue-products-and-specifications
 
 <p class="fragment">The CRI is "OK" (80) in "white mode", and unreported in "color mode".</p>
 
-<p class="fragment">They come with free hackers (with hoodies!) who will eat your children!</p>
+<p class="fragment">They come with free hackers!</p>
+
+<p class="fragment">With hoodies!</p>
 
 <h3 class="fragment">Oh. OK then.</h3>
 
@@ -258,13 +278,24 @@ Like the [Philips Hue bulbs](https://huetips.com/hue-products-and-specifications
 <h3 class="fragment">Oh. OK then.</h3>
 
 
+## Be careful retrofitting fluorescents!
+
+* There are LEDs that fit into fluorescent fixtures (i.e. "shop lights").
+    * Don't buy them!
+    * If you leave the fluorescent ballast in the fixture, you still have the electricity use and humming and flickering!
+
+* There are conversion kits where you remove the ballast (and re-wire), or you can replace the fixture wholesale.
+
+* Or if those don't seem worth it, just stick with fluorescent bulbs.
+
+
 ## What about flashlights?
 
 * Watch out for big lies about lumens.
 
 * Here's how to check:
 
-    * Consumer-grade LED technology is up to ~100-150 lumens per watt.
+    * Consumer LEDs can achieve ~100-150 lumens per watt.
 
     * 18650 (rechargeable lithium) batteries can provide 1W for about 10 hours, or 10W for 1 hour.
 
@@ -294,20 +325,23 @@ So this [4.5-star 1000-reviews top-of-the-search-results flashlight](https://www
 
 ## If you just want to buy one type of bulb
 
-* 2700K, 90+ CRI, damp-suitable, enclosed-suitable, dimmable ("warm glow"), A19, E26, in 450 (40w) to 1100 (75w) lumens
+2700K, 90+ CRI, damp-suitable, enclosed-suitable, dimmable ("warm glow"), A19, E26, in 450 ("40w") to 1100 ("75w") lumens.
 
-* But that bulb doesn't exist, so choose either:
+<p class="fragment">But that bulb doesn't exist :(</p>
 
-    * [Everything but "warm glow"](https://www.homedepot.com/p/Cree-60W-Equivalent-Soft-White-2700K-A19-Dimmable-Exceptional-Light-Quality-LED-Light-Bulb-2-Pack-TA19-08027MDFH25-12DE26-1-12/303880968) ($2.18/bulb from Home Depot)
 
-    * ["Warm glow" but 80 CRI and not suitable for damp locations](https://www.homedepot.com/p/Philips-60-Watt-Equivalent-A19-Dimmable-with-Warm-Glow-Dimming-Effect-Energy-Saving-LED-Light-Bulb-Soft-White-2700K-4-Pack-479576/303967548) ($1.58/bulb from Home Depot)
+## So choose either:
+
+* [Everything but "warm glow"](https://www.homedepot.com/p/Cree-60W-Equivalent-Soft-White-2700K-A19-Dimmable-Exceptional-Light-Quality-LED-Light-Bulb-2-Pack-TA19-08027MDFH25-12DE26-1-12/303880968) ($2.18/bulb from Home Depot)
+
+* ["Warm glow" but 80 CRI and not suitable for damp locations](https://www.homedepot.com/p/Philips-60-Watt-Equivalent-A19-Dimmable-with-Warm-Glow-Dimming-Effect-Energy-Saving-LED-Light-Bulb-Soft-White-2700K-4-Pack-479576/303967548) ($1.58/bulb from Home Depot)
 
 
 ## If you want to fine-tune it:
 
 * **Restful spaces:** 2700K, 90+ CRI, 450-1100 lumens, enclosable if needed
 
-* **Working spaces:** 3000K-4000K (or 5000K for e.g. workshop), 800-1600 lumens, the rest the same
+* **Working spaces:** 3000K-4000K (or 5000K for e.g. public workshop), 800-1600 lumens, the rest the same
 
 * **Dimming fixtures:** "Warm glow" dimming, the rest the same
 
@@ -331,18 +365,7 @@ Watch those bases! Make sure they match what you need!
 Once you install these, you won't replace them for decades, so you don't need spares on-hand!
 
 
-## What to do with shop lights?
-
-* There are LEDs designed to fit into shop lights (i.e. tube fluorescent fixtures)
-    * Don't buy them!
-    * If you leave the fluorescent ballast in the fixture, you still have the electricity use and humming!
-
-* There are conversion kits where you remove the ballast (and re-wire), or you can replace the fixture wholesale.
-
-* Or if those don't seem worth it, just stick with fluorescent bulbs.
-
-
-## That's it!
+## Questions?
 
 These slides:
 
