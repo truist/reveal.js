@@ -313,11 +313,11 @@ So this [4.5-star 1000-reviews top-of-the-search-results flashlight](https://www
 
 <p class="fragment">...uh wait, that wasn't 5 hours.</p>
 
-<p class="fragment">But it has Frendllent Quality and Quality Brandguarins!</p>
+<p class="fragment">But it has Frendiient Quality and Quality Brandguarins!</p>
 
 <h3 class="fragment">Oh. OK then.</h3>
 
-<p class="fragment">(It's probably actually very bright, though.)</p>
+<p class="fragment">(It's actually fairly bright, though.)</p>
 
 
 # OK, finally, what should I buy?
