@@ -9,17 +9,18 @@ Trying to attain **LEED** certification **led** me to buy lots of **lead**-free 
 * Longer-lasting
 * Tougher
 * [Attract far fewer bugs outdoors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5108255/)
-* More control over color than regular light bulbs
-* More physically-compact than regular light bulbs
+* More configurable than regular light bulbs.
 
 
 ## Which LED bulbs should I buy?
 
-Just get a 75W light bulb. But in LED.
+It's easy, right? Just get a 75W light bulb. But in LED.
 
-<p class="fragment">Right, a 9W, 1100-lumen, 2700K, 90+ CRI, dimmable (with warm-dimming), damp- and enclosed-suitable, lead-free, E26 base, A19 bulb, LED bulb.</p>
+<p class="fragment">Right, just get a 9W, 1100-lumen, 2700K, 90+ CRI, dimmable (with warm-dimming), damp- and enclosed-suitable, lead-free, E26 base, A19 bulb, LED bulb.</p>
 
-<h3 class="fragment">But no such bulb exists.</h3>
+<h3 class="fragment">Oh, and no such bulb exists.</h3>
+
+<h3 class="fragment">Oh. OK then.</h3>
 
 <p class="fragment">(Skip to the end if you just want the tl;dr version.)</p>
 
@@ -58,7 +59,7 @@ Just get a 75W light bulb. But in LED.
 
 * But they're also way more heat-sensitive, so they need [heat sinks](http://www.senoled.com/images/2013120321200831743809w500h500usenoled/5w-7w-fin-heat-sink-smd-led-bulb-ac100-240v.jpg).
 
-* "[Not] suitable for enclosed locations." 
+* "[Not]suitable for enclosed locations." 
 
 
 ## Legacy #1: Electricity conversion
@@ -78,18 +79,18 @@ Just get a 75W light bulb. But in LED.
 
 * It doesn't make functional sense to put flat, heat-sink-attached circuits in the middle of a globe-shaped bulb. But lamps expect those.
 
-* (But [fixtures designed around LEDs](https://d28m5bx785ox17.cloudfront.net/v1/img/JyNs9KmDs-83Ex5pnp09f4A1pWKf18B-khT_vV-yemI=/sc/600x600) can be awesome!)
+* (OTOH, [fixtures designed around LEDs](https://d28m5bx785ox17.cloudfront.net/v1/img/JyNs9KmDs-83Ex5pnp09f4A1pWKf18B-khT_vV-yemI=/sc/600x600) can be awesome!)
 
 
 ## Legacy #3: Dimmers
 
-* Traditional dimmers adjust voltage. That doesn't work for LEDs.
+* Traditional dimmers adjust voltage, which reduces the filament temperature. That doesn't work for LEDs.
 
-* They simulate dimming (in response to voltage drop) by flickering off and on very quickly!
+* But you can simulate dimming by flickering them off and on very quickly!
 
-* They cost about twice as much.
+* So dimmable LEDs detect the voltage drop and flicker the LED accordingly. (And cost about twice as much.)
 
-* And legacy dimmers have a "minimum current draw" of e.g. 30 watts - more than an LED at full power! So they often glitch out with LEDs.
+* Legacy dimmers have a "minimum current draw" of e.g. 30 watts - more than an LED at full power! So they often glitch out with LEDs.
 
 
 ## Legacy #4: 3-way bulbs
@@ -98,7 +99,7 @@ Just get a 75W light bulb. But in LED.
 
 * It's binary! (00, 01, 10, 11)
 
-* 3-way LEDs exist, based on the same idea, just to fit existing fixtures.
+* 3-way LEDs exist, based on the same idea, just to fix existing fixtures.
 
 * More circuitry!
 
@@ -107,25 +108,28 @@ Just get a 75W light bulb. But in LED.
 
 * There are two aspects to light bulb color:
     * The spectrum of wavelengths it emits.
-    * The strength of each wavelength in that spectrum.
+    * The strength of the wavelengths of that spectrum, which determines the overall color it appears to be.
 
-* When you heat tungsten, it naturally makes light across the entire color spectrum, with a predominantly-"warm" (yellow) color.
+* When you heat tungsten enough, it naturally makes light across the entire color spectrum, with a predominantly-"warm" (yellow) color.
+    * I.e. incandescent light bulbs!
 
-* LED diodes only generate a single specific wavelength - no spectrum!
+* LEDs (the diodes) generate light at individual specific wavelengths, depending on their chemical composition - so they have nearly-no spectrum!
 
 
 ## Why should we care about spectrum?
 
-* The colors you see are limited to the wavelengths available in the light.
+* Because the colors you see are limited to the wavelengths available in the light source.
 
-* If an object "is" a color, but there's no light of that color shining on it, you can't see that color!
+* If a wavelength isn't in the light source, you can't see it, even if the object "is" that color.
+
+* So you see the wrong colors!
 
 
 ## How do we get spectrum from LEDs?
 
-* It's possible to get white-appearing light by combining red, green, and blue LEDs. But the spectrum sucks.
+* It's possible to get white light by combining red, green, and blue LEDs. But the spectrum sucks.
 
-* But it turns out you can wrap a blue LED with a "yellow" [phosphor](https://en.wikipedia.org/wiki/Phosphor) and get white light with a broad spectrum!
+* But it turns out you can wrap a blue LED with a "yellow" phosphor (a chemical coating that fluoresces) and get white light with a broad spectrum!
 
 [Detour to the charts over here](https://www.comsol.com/blogs/calculating-the-emission-spectra-from-common-light-sources/)
 
@@ -137,27 +141,29 @@ We'll come back to that later.
 
 ## What about color?
 
-* The "color" of a light source is really the "tint" that our eyes/brains perceive, from direct viewing or reflected light.
+* The "color" of a light source is really the "tint" that our eyes/brains perceive, based on looking at that light or at objects under that light.
 
 * Even if a light source has all the wavelengths we can perceive, if e.g. the red ones are much stronger, we will perceive it to be a red light.
 
-* We indicate this color as a "color temperature":
+* We indicate this color as a "color temperature": *The color temperature of a light source is the temperature of an ideal black-body radiator that radiates light of a color comparable to that of the light source.*
 
-<p class="fragment">*The color temperature of a light source is the temperature of an ideal black-body radiator that radiates light of a color comparable to that of the light source.*</p>
+<h3 class="fragment">Oh. OK then.</h3>
 
 
 ## Black body what?!?
 
 * A [color temperature](https://en.wikipedia.org/wiki/Color_temperature) (e.g. 2700K) tells you the color you'd actually perceive if you heated an ideal-for-this-purpose ([black body](https://en.wikipedia.org/wiki/Black_body)) material up to that temperature.
 
-* So it's a reference against [actual light-emitting behavior of physical objects when they are heated](https://en.wikipedia.org/wiki/File:Black_body.svg).
-
-* It turns out we [can't perceive a green color temp](https://en.wikipedia.org/wiki/File:Black_body_visible_spectrum.gif). It looks white.
-
 * So the range goes from [red to yellow to white to blue](https://www.specgradeled.com/led-lighting-color-temperature/).
 
+    * Because that's what we humans actually physically perceive [when things are heated](https://en.wikipedia.org/wiki/File:Black_body.svg).
 
-## A bit of insanity
+        * It turns out we [can't perceive a green color temp](https://en.wikipedia.org/wiki/File:Black_body_visible_spectrum.gif). It looks white.
+
+            * (So what is the color temperature of a green LED?)
+
+
+## Another bit of insanity
 
 We measure the "color" of a light in units of temperature
 
@@ -178,9 +184,11 @@ and low temperatures result in "warm" (red) colors.
 
     * (Which, in turn, closely matches an ideal 2700K black body radiator.)
 
-* But why is that the spectrum we should want?
+* But why is that the standard for the spectrum we should want?
 
-* CRI measurement is standardized... which means it can be gamed.
+    * Because it [seemingly-by-chance matches what we actually do want](https://en.wikipedia.org/wiki/File:Black_body_visible_spectrum.gif).
+
+* But CRI measurement is standardized... which means it can be gamed.
 
 <p class="fragment">[Learn lots more by scrolling through this page.](https://www.yujiintl.com/high-cri-led-lighting)</p>
 
@@ -191,11 +199,13 @@ and low temperatures result in "warm" (red) colors.
 
 <h3 class="fragment">All we've covered are the fundamental issues that make it hard to make useful LED bulbs. We haven't talked about the issues that arise from the fixes, yet!</h3>
 
+<h3 class="fragment">Oh. OK then.</h3>
+
 
 ## Other issues with LEDs
 
 * Brightness is no-longer meaningfully measured in "watts" (i.e. electricity consumption), so it's time to learn "lumens".
-    * 800 (60W), 1100 (75W), 1600 (100W), and so on.
+    * 800 (60), 1100 (75), 1600 (100), and so on.
 
 * Circuit boards don't like to get wet. So you have to get "suitable for damp locations" for e.g. bathrooms, outdoors, basements.
 
@@ -214,11 +224,9 @@ and low temperatures result in "warm" (red) colors.
 
 ## LED ROI
 
-* An LED equivalent to a 75W incandescent uses about 11W, saving about 0.64c/hour in electricity.
+* An LED of equivalent-brightness (1100 lumens) to a 75W incandescent bulb uses about 11W per hour. At $0.10/KWh, the incandescent costs about 0.75c/hour of operation, and the LED costs about 0.11c/hour.
 
-* The incandescent will last about 1,000 hours, and will cost $1-2 each time it is replaced.
-
-* The LED will last about 20,000 hours, and will cost $3-6 to buy it.
+* That incandescent bulb will last about 1,000 hours, and will cost $1-2 each time it is replaced. That LED bulb will last about 20,000 hours, and will cost $3-6 to buy it.
 
 * So the total 20,000-hour cost of the incandescent is about $180, while the total cost of the LED is about $27. 
 
@@ -227,18 +235,20 @@ and low temperatures result in "warm" (red) colors.
 
 In fact, if new LEDs cost less than $3.20, you should just throw away your working incandescents and replace them immediately.
 
-(If cost is the only consideration.)
+<p class="fragment">(If cost is the only consideration.)</p>
 
 
 ## What about "smart" lights?
 
 Like the [Philips Hue bulbs](https://huetips.com/hue-products-and-specifications/hue-bulb-specs/)?
 
-<p class="fragment">I don't have any. They seem convenient.</p>
-
 <p class="fragment">The CRI is "OK" (80) in "white mode", and unreported in "color mode".</p>
 
 <p class="fragment">They come with free hackers!</p>
+
+<p class="fragment">With hoodies!</p>
+
+<h3 class="fragment">Oh. OK then.</h3>
 
 
 ## What about fluorescents / CFLs?
@@ -253,15 +263,18 @@ Like the [Philips Hue bulbs](https://huetips.com/hue-products-and-specifications
     * Warm-up period
     * Mercury
 
+<h3 class="fragment">Oh. OK then.</h3>
+
 
 ## Be careful retrofitting fluorescents!
 
 * There are LEDs that fit into fluorescent fixtures (i.e. "shop lights").
+    * Don't buy them!
     * If you leave the fluorescent ballast in the fixture, you still have the electricity use and humming and flickering!
 
 * There are conversion kits where you remove the ballast (and re-wire), or you can replace the fixture wholesale.
 
-* Or just stick with fluorescent bulbs.
+* Or if those don't seem worth it, just stick with fluorescent bulbs.
 
 
 ## What about flashlights?
@@ -270,33 +283,29 @@ Like the [Philips Hue bulbs](https://huetips.com/hue-products-and-specifications
 
 * Here's how to check:
 
-    * Consumer LEDs can achieve 100-150 lumens per watt (best case).
+    * Consumer LEDs can achieve ~100-150 lumens per watt.
 
-    * 18650 batteries can provide ~10 watt-hours.
+    * 18650 (rechargeable lithium) batteries can provide 1W for about 10 hours, or 10W for 1 hour.
 
-        * (A single AA battery can provide ~3 watt-hours.)
+        * (A single AA battery can provide 1W for about 3 hours.)
+
 
 
 ## Let's check one!
 
-This [4.5-star 1000-reviews first-result $8.50 flashlight](https://www.amazon.com/Ultra-Bright-Flashlight-Wsiiroon-Water-Resistant-Batteries/dp/B07537C91H/ref=sr_1_5?keywords=bright+led+flashlight&qid=1551420741&s=gateway&sr=8-5) claims:
+So this [4.5-star 1000-reviews top-of-the-search-results flashlight](https://www.amazon.com/Ultra-Bright-Flashlight-Wsiiroon-Water-Resistant-Batteries/dp/B07537C91H/ref=sr_1_5?keywords=bright+led+flashlight&qid=1551420741&s=gateway&sr=8-5) claims 1800 lumens with a 5-hour runtime with a single 18650:
 
-1800 lumens with a 4-hour runtime with a single 18650
+1800 lumens / 150 lumens/watt (best case) = 12 watts
 
-<p class="fragment">1800 lumens / 150 L/W (best case) = 12 watts</p>
+10W/hour / 12 watts = 50 minutes
 
-<p class="fragment">10 watt-hours / 12 watts = 50 minutes</p>
-
-<p class="fragment">...uh wait, that wasn't 4 hours.</p>
+<p class="fragment">...uh wait, that wasn't 5 hours.</p>
 
 <p class="fragment">But it has Frendiient Quality and Quality Brandguarins!</p>
 
-<p class="fragment">(It probably has 250-500 lumens.)</p>
+<h3 class="fragment">Oh. OK then.</h3>
 
-
-[Here's the light it wishes it could be.](https://www.amazon.com/Streamlight-88065-Professional-Flashlight-Rechargeable/dp/B06VTLLC13/ref=sr_1_8)
-
-<p class="fragment">(4.5 stars, 315 reviews, $72.00, **1000 lumens**, **90 minutes**)</p>
+<p class="fragment">(It's actually fairly bright, though.)</p>
 
 
 # OK, finally, what should I buy?
@@ -304,7 +313,7 @@ This [4.5-star 1000-reviews first-result $8.50 flashlight](https://www.amazon.co
 
 ## If you just want to buy one type of bulb
 
-2700K, 90+ CRI, damp-suitable, enclosed-suitable, dimmable ("warm glow"), A19, E26, in 450 ("40w") to 1600 ("100w") lumens.
+2700K, 90+ CRI, damp-suitable, enclosed-suitable, dimmable ("warm glow"), A19, E26, in 450 ("40w") to 1100 ("75w") lumens.
 
 <p class="fragment">But that bulb doesn't exist :(</p>
 
@@ -341,10 +350,12 @@ Watch those bases! Make sure they match what you need!
 
 ## Don't over-buy!
 
-You won't need any/many spares!
+Once you install these, you won't replace them for decades, so you don't need spares on-hand!
 
 
 ## Questions?
 
 [These slides](https://github.com/truist/reveal.js/blob/master/slides/LEDs/LEDs.md)
+
+[Detailed notes](https://github.com/truist/reveal.js/blob/f4b0e579e9b4a90a27b05b77d89a6fb76d70f21a/slides/LEDs/LEDs.md)
 
