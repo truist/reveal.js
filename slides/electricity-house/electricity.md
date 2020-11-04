@@ -21,14 +21,14 @@
         * (Which isn't really relevant)
 
 * Some of what I tell you today will probably be wrong
-    * But WAY less wrong than most stuff online
+    * But WAY less-wrong than most stuff online
 
 
 ## USA only
 
 * I only know about the United States
     * Most of it is also true in Canada
-* Europe, Asia, and Africa are each very different from the US
+* All other continents are each very different from the US
     * Plugs & outlet design
     * Grounding systems
     * Operating voltage & frequency
@@ -52,13 +52,25 @@ Amps * Volts = Watts
 
 15A (typical circuit) * 120V (USA) = 1800W on a single circuit
 
-One 15A circuit can handle (one of):
+One 15A (1800W) circuit can handle a max of:
 
-* 30 60W light bulbs
-* 200 equivalent LED bulbs
-* 2 small toasters
-* 1 hair dryer
 * 1 area heater
+* or 1 hair dryer
+* or 2 small toasters
+* or 30 60W light bulbs
+* or 200 60W-equivalent LED bulbs
+
+
+## Naming things
+
+The people who named the things in the electrical domain were experts.
+
+So the names are all weird and misleading.
+
+If you're confused, it's not just you.
+
+(For example: wire gauges, "14/2", grounding, current, "three-way switch", GFCI, CAFCI)
+
 
 
 # Household electrical dangers
@@ -67,7 +79,7 @@ One 15A circuit can handle (one of):
 ## Danger: electricity
 
 * Your body runs on electricity
-    * If you add extra electricity, it might stop running!
+    * Outside electricity is not welcome!
     * Heart & brain can just stop working
     * Muscles can lock up
 * It's the current **and** the voltage that kill you
@@ -82,12 +94,12 @@ One 15A circuit can handle (one of):
 
 * Flowing electricity generates heat
     * Much like friction - more electricity, smaller wires, more heat
-    * An AA battery with a paperclip can seriously burn you
+    * An AA battery with a paperclip can cause intense burns
 * The big risk is fire
     * But burning your lungs is bad, too!
 * Slower consequences
     * There's time to react, if you're nearby when it happens
-    * But the consequences might come well after the cause
+    * But the consequences might be delayed!
 
 
 ## Danger: water
@@ -102,13 +114,18 @@ One 15A circuit can handle (one of):
 * Instantaneous consequences, usually
 
 
-## Danger: lightning
+## Danger: lightning (1 of 3)
 
 * Heat, electricity, and water!
 * I used to not worry about lightning danger
-    * [5 ways lightning strikes people](https://www.weather.gov/safety/lightning-struck)
-        * *Nearby* lightning is dangerous!
-            * Under trees is *more* dangerous!
+    * Then I read about it!
+* [5 ways lightning strikes people](https://www.weather.gov/safety/lightning-struck)
+    * *Nearby* lightning is dangerous!
+        * Under trees is *more* dangerous!
+
+
+## Danger: lightning (2 of 3)
+
 * Basically:
     * [There is no safe place outside](https://www.weather.gov/media/safety/Lightning-Brochure18.pdf)
     * Inside, the metal paths-to-ground in your house [act as a shield](http://stormhighway.com/protection.php)
@@ -119,6 +136,10 @@ One 15A circuit can handle (one of):
     * Don't touch grounded stuff inside
         * Plumbing
         * Anything plugged in
+
+
+## Danger: lightning (3 of 3)
+
 * Odds of you getting hit by lightning, in a year: [about 1 in 1,000,000](https://www.weather.gov/safety/lightning-odds)
 * Odds of your house getting hit by lightning, in a year: about 1 in 1,000
     * [About 80M detached houses in the US](https://www.quora.com/How-many-houses-are-there-in-the-US?share=1)
@@ -146,6 +167,7 @@ One 15A circuit can handle (one of):
     * Many electricians are "experts who've done it that way for years"
     * Home inspectors only check the basics
     * Older work probably hasn't been updated to latest standards
+
 * National Electrical Code
     * Updated every 3 years
     * Adopted (as law) by localities... eventually
@@ -193,7 +215,7 @@ Look in your basement or attic, and check it against
 * Spliced outside junction boxes
 * No ground
 * Unreliable polarity
-* ***Might not*** be especially dangerous if:
+* ***Might not*** be ***especially*** dangerous if:
     * It's never been altered or damaged
     * No additional wiring was added to it
     * No insulation was added around it
@@ -207,7 +229,7 @@ Just kidding. Too complicated. But there is a heuristic!
 
 Does starting your toaster or window air conditioner dim your lights?
 
-It might mean the wires are too thin / too long.
+It might mean the wires are too thin and/or too long.
 
 Or maybe the lights are "dimmable" LEDs reacting to voltage fluctuations.
 
@@ -225,10 +247,10 @@ Three main types:
 * 2-prong 😟
 
 
-## Outlets: GFCI
+### Outlets: GFCI
 
 * GFCI outlets (and/or breakers) protect humans from electrocution
-    * Huh? Don't they all?
+    * Huh? Isn't that what all breakers do?
 * One GFCI outlet provides protection for all *downstream* outlets
 * They can wear out
     * Newer ones have lights
@@ -241,7 +263,7 @@ Three main types:
     * Kitchens, bathrooms, outdoors, basements, garages
 
 
-## Outlets: 3-prong
+### Outlets: 3-prong
 
 * Check for physical damage
 * Check the wiring (with a tester)
@@ -254,7 +276,7 @@ Three main types:
         * It's OK to do so, but weird
 
 
-## Outlets: 2-prong
+### Outlets: 2-prong
 
 * No ground!
     * Those adapters put you in danger!
@@ -275,7 +297,7 @@ Three main types:
         * A single hair dryer will do it
     * Heat / fire!
         * But probably not
-* Thicker cords are ***better***
+* Thicker cords (with thicker wires) are ***better***
     * Less resistance, so less heat generated
 * Power/surge strips with breakers should protect themselves
     * But sometimes fail to do so
@@ -295,7 +317,7 @@ Three main types:
     * Damage accumulates over time
 
 
-## Surge protectors
+### Surge protectors
 
 * Most surge protectors shunt the excess power to the neutral and/or ground wires
     * No ground wire, worse/no surge protection!
@@ -306,23 +328,32 @@ Three main types:
     * But they *might* be enough for a nearby lightning strike
     * Ignore the "connected equipment insurance"
         * Homeowner's / renter's insurance probably covers it
+
+
+#### Surge protectors wear out
+
 * Surges wear out most surge protectors
     * Old surge protectors probably won't protect
     * Quality surge protectors will shut off when worn out
         * Cheap ones are more proactive; they might catch fire!
     * Thumb rule: 5 years. Or 3. Or 10. Or 2. Or after nearby lightning.
+        * 😠
 
 
-## What surge protector to get?
+#### What surge protector to get?
 
 * [Wirecutter's article](https://www.nytimes.com/wirecutter/reviews/best-surge-protector/) is *excellent*
-* [Series Mode surge suppressors](https://www.wikiwand.com/en/Surge_protector#/Series_mode_(SM)_surge_suppressors) are awesome!
+* <a href="https://www.wikiwand.com/en/Surge_protector#/Series_mode_(SM)_surge_suppressors">Series Mode surge suppressors</a> are awesome!
     * And expensive!
         * But not so bad on Ebay!
-    * Don't rely on the ground wire
-    * Don't wear out
-    * Don't protect from surges on neutral and/or ground
-        * Which is a very small risk, because lightning
+    * And don't shunt to the ground wire!
+    * And don't wear out!
+    * And don't protect from surges on neutral and/or ground!
+        * Which is a small risk, because lightning 😢
+
+
+#### Whole-house surge protection
+
 * Consider [whole-house surge protection](https://www.homedepot.com/p/Siemens-20-Amp-6-5-in-Whole-House-Surge-Protected-Circuit-Breaker-QSA2020SPDP/202562776), too
     * Your fridge, stove, washing machine, etc. are all computers
     * Expensive to install
@@ -331,6 +362,83 @@ Three main types:
         * ...which won't wear out as fast
     * Much better nearby-lightning protection
         * Still won't save you from direct lightning
+
+
+## Check your breaker box
+
+* Main breaker: 100A or 200A?
+    * Is an electric car in your future?
+* Most breakers: 20A or 15A?
+* Big stuff (air conditioner, dryer, oven/stove): 30A
+* Sub panels: 50A or more
+* What type of breakers?
+    * (C)AFCI? GFCI? AFCI + GFCI? "Regular"?
+
+
+### Breaker types: "regular"
+
+* No lights or buttons
+* Trip (disconnect power) if there is too much current draw
+    * i.e. overloading and/or wiring faults (short circuits)
+    * i.e. these protect against overheating
+* The ground wire system works by *causing* over-current in case of a human-dangerous wiring fault inside the appliance, thereby tripping the breaker
+    * This is the only case where regular breakers protect humans from electrocution
+        * And if you defeat the grounding system with one of those adapters, you are removing this safety mechanism!
+* These are *slow* - you'll be dead by the time they trip
+
+
+### Breaker types: GFCI
+
+* Just like a GFCI outlet, but in breaker form
+* Usually a light and a test button
+* Trip if there is more current going out than coming back
+    * (And if there is over-current)
+    * These protect against overheating *and* electrocution
+* These are *fast* - they'll save you from electrocution
+* But GFCI breakers are usually worse than GFCI outlets
+    * Farther away from the user, if they need reset
+    * Less-likely to notice if they've worn out
+        * (But good ones will trip, when they do)
+* If these trip, and you're not sure why, take it seriously
+
+
+### Breaker types: AFCI
+
+* Also a light and a test button
+    * Typically labeled "CAFCI"
+* Trip if their circuitry detects arcing / sparking
+    * (And if there is over-current)
+    * (NOT if there is imbalanced current)
+    * These protect against overheating (from overload) and overheating (from sparks)
+        * These don't prevent electrocution, any better than regular breakers!
+* These are required by code for nearly every circuit in modern builds
+    * They cost $40+, vs. $5
+    * They may be [pointless](http://www.combinationafci.com/resources/doc_ieee_combination_afci.pdf)
+* If these do trip because of an arc, take it seriously!
+
+
+### Breaker types: AFCI + GFCI
+
+* Not the same thing as "CAFCI"!
+    * ("Combination AFCI" - doesn't mean GFCI!)
+* Typically two lights and one button
+* Protect from heat (overload) and heat (sparks) and electrocution (shocks)
+    * All the things!
+* $45+
+* Maybe you want the GFCI part near the user
+
+
+## Last thing: wire sizes
+
+* You don't really need to check this, but it's commonly misunderstood
+    * And if you have homeowner-work in your house, they might have screwed it up
+* The breaker amperage has to match the thinnest wire on the circuit
+    * (Wires in the wall, not e.g. extension cords)
+* 14 gauge wire = 15A breaker
+* 12 gauge wire (thicker!) = 20A breaker
+
+That's the rule. You can have thicker wires on a lower-amperage breaker. Or 20A outlets on a 15A breaker. Just **don't** have 14ga wire on a 20A breaker!
+
 
 
 
