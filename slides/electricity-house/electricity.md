@@ -3,16 +3,12 @@
 
 * Understand electricity itself
     * Common concepts are massively misleading
-    * Deeper understanding isn't actually that hard
-        * But you have to un-learn things first
 
 * Check your house's safety
-    * Doesn't require true understanding
-        * But doesn't entirely make sense without it
+    * Help you understand what you have
 
 * Practical knowledge / how-to
-    * Doesn't require true understanding
-        * But doesn't entirely make sense without it
+    * Help you make your life better
 
 🤔
 
@@ -108,7 +104,7 @@ If you're confused, it's not just you.
 ## Danger: electricity
 
 * Your body runs on electricity
-    * Outside electricity (even a tiny bit) is not welcome!
+    * Extra electricity (even a tiny bit) is not welcome!
     * Heart & brain can just stop working
     * Muscles can lock up
 * It's the current **and** the voltage that kill you
@@ -209,6 +205,11 @@ If you're confused, it's not just you.
 Look in your basement or attic, and check it against
 [this (long) guide](https://inspectapedia.com/electric/Old_Electrical_Wiring.php)
 
+* Modern ("Romex")
+* Fabric-wrapped
+* Aluminum
+* Knob and Tube
+
 
 ## Wire type: Modern
 
@@ -216,7 +217,7 @@ Look in your basement or attic, and check it against
 * NM (Non-Metallic)
 * NMC (NM Cable)
 * UF (Underground Feeder)
-* 👍
+* 👍 (assuming it was installed correctly)
 
 
 ## Wire type: Fabric-wrapped
@@ -354,11 +355,13 @@ Three main types:
         * That's why there's a light!
 * Surge protectors still "let-through" voltage
     * Typically ~330-400V
+    * (For microseconds)
 * Surge protectors won't block a direct lightning strike
     * But they *might* be enough for a nearby lightning strike
     * Ignore the "connected equipment insurance"
         * Homeowner's / renter's insurance probably covers it
-
+* You need protection for internet and phone lines, too
+    * For nearby lightning
 
 #### Surge protectors wear out!
 
@@ -367,7 +370,7 @@ Three main types:
 * Old surge protectors probably won't protect
 * Quality surge protectors will shut off when worn out
     * Cheap ones are more proactive: they might catch fire!
-    * The "Protected" light isn't always reliable
+    * The "protected" light isn't always reliable
 * Thumb rule: 5 years. Or 3. Or 10. Or 2. Or after nearby lightning.
     * 😠
 
@@ -376,7 +379,7 @@ Three main types:
 
 * [Wirecutter's article](https://www.nytimes.com/wirecutter/reviews/best-surge-protector/) is *excellent*
 
-* <a href="https://www.wikiwand.com/en/Surge_protector#/Series_mode_(SM)_surge_suppressors">Series Mode surge suppressors</a> are awesome!
+* Or <a href="https://www.wikiwand.com/en/Surge_protector#/Series_mode_(SM)_surge_suppressors">Series Mode surge suppressors</a> are awesome!
     * And expensive!
         * But not so bad on Ebay!
     * And don't shunt to the ground wire!
@@ -388,13 +391,16 @@ Three main types:
 #### Whole-house surge protection
 
 * Consider [whole-house surge protection](https://www.homedepot.com/p/Siemens-20-Amp-6-5-in-Whole-House-Surge-Protected-Circuit-Breaker-QSA2020SPDP/202562776), too
-    * Your fridge, stove, washing machine, etc. are all computers
-    * ~$120 + an electrician
-    * Watch out for MOV-based ones!
-    * Let-through ~600V, so you still need regular surge protectors
-        * ...which won't wear out as fast
-    * Much better nearby-lightning protection
-        * Still won't save you from direct lightning
+* Your fridge, stove, washing machine, etc. are all computers
+* ~$120 + an electrician
+* Probably MOV-based
+* I *think* they protect from surges on all lines
+* Let-through ~600V, so you still need regular surge protectors
+    * ...which won't wear out as fast
+* Much better nearby-lightning protection
+    * Still won't save you from direct lightning
+
+Whole-house + Series Mode is pretty great 😁
 
 
 ## Check your breaker box
@@ -421,6 +427,20 @@ Three main types:
 * Electrocuting yourself probably won't trip these!
 
 
+### Breaker types: AFCI
+
+* Typically labeled "CAFCI"
+    * With a light and a test button
+* Trip if their circuitry detects arcing / sparking
+    * (And if there is over-current)
+    * These protect against overheating (from overload) and overheating (from sparks)
+        * These don't prevent electrocution, any better than regular breakers!
+* These are required by code for nearly every circuit in modern builds
+    * They cost $40+, vs. $5
+    * They may be [pointless](http://www.combinationafci.com/resources/doc_ieee_combination_afci.pdf)
+* If these do trip because of an arc, take it seriously!
+
+
 ### Breaker types: GFCI
 
 * Just like a GFCI outlet, but in breaker form
@@ -433,22 +453,7 @@ Three main types:
     * Farther away from the user, if they need reset
     * Very long wiring paths can cause false-trips
     * Less-likely to notice if they've worn out
-* If these trip, and you're not sure why, take it seriously
-
-
-### Breaker types: AFCI
-
-* Also a light and a test button
-    * Typically labeled "CAFCI"
-* Trip if their circuitry detects arcing / sparking
-    * (And if there is over-current)
-    * (NOT if there is imbalanced current)
-    * These protect against overheating (from overload) and overheating (from sparks)
-        * These don't prevent electrocution, any better than regular breakers!
-* These are required by code for nearly every circuit in modern builds
-    * They cost $40+, vs. $5
-    * They may be [pointless](http://www.combinationafci.com/resources/doc_ieee_combination_afci.pdf)
-* If these do trip because of an arc, take it seriously!
+* If these trip, and you're not sure why, take it seriously!
 
 
 ### Breaker types: AFCI + GFCI
@@ -466,13 +471,15 @@ Three main types:
 ## Last thing: wire sizes
 
 * You don't really need to check this, but it's commonly misunderstood
-    * And if you have homeowner-work in your house, they might have screwed it up
+    * And if you have homeowner-work in your house, they might have screwed it up 😉
 * The breaker amperage has to match the thinnest wire on the circuit
     * (Wires in the wall, not e.g. extension cords)
 * 14 gauge wire = 15A breaker
 * 12 gauge wire (thicker!) = 20A breaker
 
-That's the rule. You can have thicker wires on a lower-amperage breaker. Or 20A outlets on a 15A breaker. Just **don't** have 14ga wire on a 20A breaker!
+That's the rule.
+
+You can have thicker wires on a lower-amperage breaker. Or 20A outlets on a 15A breaker. Just **don't** have 14ga wire on a 20A breaker!
 
 
 # Safely working with household electricity
@@ -490,7 +497,7 @@ That's the rule. You can have thicker wires on a lower-amperage breaker. Or 20A 
     * Check it!
 * Isolate yourself (from ground, and from hot)
     * Shoes
-    * Non-metal-handled tools
+    * Plastic-handled tools
     * Gloves, maybe
 * One-hand rule
 * Don't work during a storm
@@ -505,7 +512,6 @@ That's the rule. You can have thicker wires on a lower-amperage breaker. Or 20A 
 * Consider whether you need a permit
     * Consider whether you are required to add smoke detector!
     * (Nothing we learn today should require either)
-* Make a shopping list
 * Shop for parts
 
 
@@ -513,15 +519,18 @@ That's the rule. You can have thicker wires on a lower-amperage breaker. Or 20A 
 
 * Outlet tester / voltage tester / multimeter
     * (Or known-working lamp)
-* Flashlight / head lamp
 * Wire cutter / stripper
     * (Or knife)
 * Screwdrivers / power screwdriver (with plastic handles)
+* Flashlight / headlamp
 * Needle nose pliers (with plastic handles)
+* Electrical tape
+
+For bigger jobs:
+
 * Wire
 * Wire nuts / Wago nuts
 * Extra bolts
-* Electrical tape
 
 
 ## Get started
@@ -535,6 +544,14 @@ That's the rule. You can have thicker wires on a lower-amperage breaker. Or 20A 
 
 
 # Simple electrical improvements you can do
+
+* Replace a plug end
+* Upgrade or fix a lamp
+* Replace a wall switch
+* Replace a 2-prong or 3-prong outlet with a GFCI
+* Replace a downstream 2-prong with 3-prong
+
+(All things where you can just replace the part, without changing the circuitry)
 
 
 ## Replace a plug end
@@ -553,7 +570,7 @@ That's the rule. You can have thicker wires on a lower-amperage breaker. Or 20A 
 
 * Fix one that's fritzy
     * Could be the wiring or the socket
-* Or convert to 3-way, or add a touch sensor
+* Or convert to 3-way, or change the switch
     * Be careful about heat, if using incandescent bulbs
 * (Show parts / options)
 * Unplug it
@@ -564,20 +581,55 @@ That's the rule. You can have thicker wires on a lower-amperage breaker. Or 20A 
 * Test it
 
 
-## Replace a 2-prong outlet with a GFCI
-
-* (Show parts / options)
-
-
-## Replace a downstream 2-prong outlet with a 3-prong outlet
-
-
 ## Replace a wall switch
 
-* (Show parts / options)
+* Shop
+    * Quality, color, cover (shape, color)
+* Prepare
+    * Test, disconnect power, test
+* Do it
+    * Disassemble
+        * Make note of how the existing wires are connected
+        * Neutral wire should not be connected
+            * (Except in some 3-way scenarios)
+    * Remove, replace (unchanged from original)
+    * Wrap, reassemble
+* Validate
+    * Reconnect power, test
 
 
-## Check out a more-complex wiring setup
+## Replace a 2-prong or 3-prong outlet with a GFCI
+
+* Shop
+    * Amperage, depth, tamper, quality, color, cover (shape, color)
+* Prepare
+    * Test, disconnect power, test
+* Do it
+    * Disassemble
+        * Make note of how the existing wires are connected
+    * Remove, replace
+        * Be careful of "line" vs. "load"
+    * Wrap, reassemble, sticker
+* Validate
+    * Reconnect power, test
+
+...then replace downstream 2-prong outlets with 3-prong
+
+
+## Replace a downstream 2-prong with a 3-prong 
+
+* Same as GFCI, but easier
+* Shop
+    * Amperage, tamper, quality, color, cover (shape, color)
+* Prepare
+    * Test, disconnect power, test
+* Do it
+    * Disassemble
+        * Make note of how the existing wires are connected
+    * Remove, replace (unchanged from original)
+    * Wrap, reassemble, (sticker)
+* Validate
+    * Reconnect power, test
 
 
 # But wait, there's more!
@@ -589,7 +641,7 @@ That's the rule. You can have thicker wires on a lower-amperage breaker. Or 20A 
 
 * Your body is held together by electricity
 * Electrical energy travels outside the wire
-* "Current" does not "flow"
+* Current does not flow
 * Batteries do not store or generate electricity
 * Electrons in a circuit move slowly (inches per hour)
 * The (outdoor) air around your body has a large voltage (>100V)
@@ -598,9 +650,9 @@ That's the rule. You can have thicker wires on a lower-amperage breaker. Or 20A 
 ## And we'll learn:
 
 * The earth is a poor conductor
-* Electricity does not naturally go to ground
-* The "hot" wire is electrically dangerous *because of* grounding
-    * Ditto for bathtubs
+* Electricity does not naturally go to earth
+* The hot wire is electrically dangerous *because of* grounding
+* Bathtubs are electrically dangerous *because of* grounding
 * The ground wire would be effective even if it wasn't connected to earth
 * Your house does not have two-phase power
 
@@ -614,6 +666,11 @@ That's the rule. You can have thicker wires on a lower-amperage breaker. Or 20A 
 * Alternating current, transformers, phases, and power factor
 
 
+# TODO
+
+images / more-interesting visuals
+reference links
+better context-keeping
 
 -----------
 
