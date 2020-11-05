@@ -1,9 +1,36 @@
 
+## What to teach?
+
+* Understand electricity itself
+    * Common concepts are massively misleading
+    * Deeper understanding isn't actually that hard
+        * But you have to un-learn things first
+
+* Check your house's safety
+    * Doesn't require true understanding
+        * But doesn't entirely make sense without it
+
+* Practical knowledge / how-to
+    * Doesn't require true understanding
+        * But doesn't entirely make sense without it
+
+🤔
+
+
+## What's most interesting, to this audience?
+
+I wasn't sure.
+
+I surveyed a number of you.
+
+I settled on...
+
+
 ## Today's agenda
 
 * Why you should(n't) trust me
 * Basic electrical concepts, briefly
-* Household electrical dangers
+* Understand electrical dangers
 * Check your house!
 * Demonstrate common electrical modifications
     * And how to stay safe while doing them!
@@ -13,7 +40,7 @@
 ## My qualifications
 
 * Interest and experience since high school
-    * Person-weeks modifying home electrical circuits
+    * Person-weeks upgrading home electrical circuits
     * Person-days researching core concepts
 
 * Oh, you wanted formal education?
@@ -22,6 +49,8 @@
 
 * Some of what I tell you today will probably be wrong
     * But WAY less-wrong than most stuff online
+
+* I am not an electrician!
 
 
 ## USA only
@@ -73,13 +102,13 @@ If you're confused, it's not just you.
 
 
 
-# Household electrical dangers
+# Understand electrical dangers
 
 
 ## Danger: electricity
 
 * Your body runs on electricity
-    * Outside electricity is not welcome!
+    * Outside electricity (even a tiny bit) is not welcome!
     * Heart & brain can just stop working
     * Muscles can lock up
 * It's the current **and** the voltage that kill you
@@ -167,6 +196,7 @@ If you're confused, it's not just you.
     * Many electricians are "experts who've done it that way for years"
     * Home inspectors only check the basics
     * Older work probably hasn't been updated to latest standards
+    * Homeowner work 😉
 
 * National Electrical Code
     * Updated every 3 years
@@ -197,7 +227,7 @@ Look in your basement or attic, and check it against
 * Old splices might not be in junction boxes
 * Probably no ground wire
 * Hard to modify without damage
-* Probably acceptable
+* Tolerable
 
 
 ## Wire type: Aluminum
@@ -310,7 +340,7 @@ Three main types:
     * Power outages
     * Brownouts
     * Motors in your home (fridge, air conditioner, etc.)
-* Surges happen in milliseconds
+* Surges happen in microseconds
     * You won't perceive them, unless they break something
 * Surges cause heat, which causes damage to delicate electronics
     * Small surges cause small damage, and vice-versa
@@ -330,33 +360,36 @@ Three main types:
         * Homeowner's / renter's insurance probably covers it
 
 
-#### Surge protectors wear out
+#### Surge protectors wear out!
 
-* Surges wear out most surge protectors
-    * Old surge protectors probably won't protect
-    * Quality surge protectors will shut off when worn out
-        * Cheap ones are more proactive; they might catch fire!
-    * Thumb rule: 5 years. Or 3. Or 10. Or 2. Or after nearby lightning.
-        * 😠
+* "MOV"-based protectors
+* Each surge alters the surge protector components
+* Old surge protectors probably won't protect
+* Quality surge protectors will shut off when worn out
+    * Cheap ones are more proactive: they might catch fire!
+    * The "Protected" light isn't always reliable
+* Thumb rule: 5 years. Or 3. Or 10. Or 2. Or after nearby lightning.
+    * 😠
 
 
 #### What surge protector to get?
 
 * [Wirecutter's article](https://www.nytimes.com/wirecutter/reviews/best-surge-protector/) is *excellent*
+
 * <a href="https://www.wikiwand.com/en/Surge_protector#/Series_mode_(SM)_surge_suppressors">Series Mode surge suppressors</a> are awesome!
     * And expensive!
         * But not so bad on Ebay!
     * And don't shunt to the ground wire!
     * And don't wear out!
-    * And don't protect from surges on neutral and/or ground!
-        * Which is a small risk, because lightning 😢
+    * And don't protect from surges on neutral and/or ground! 😢
+        * Which is a small risk, because lightning
 
 
 #### Whole-house surge protection
 
 * Consider [whole-house surge protection](https://www.homedepot.com/p/Siemens-20-Amp-6-5-in-Whole-House-Surge-Protected-Circuit-Breaker-QSA2020SPDP/202562776), too
     * Your fridge, stove, washing machine, etc. are all computers
-    * Expensive to install
+    * ~$120 + an electrician
     * Watch out for MOV-based ones!
     * Let-through ~600V, so you still need regular surge protectors
         * ...which won't wear out as fast
@@ -373,6 +406,7 @@ Three main types:
 * Sub panels: 50A or more
 * What type of breakers?
     * (C)AFCI? GFCI? AFCI + GFCI? "Regular"?
+* (Mapping circuits)
 
 
 ### Breaker types: "regular"
@@ -384,7 +418,7 @@ Three main types:
 * The ground wire system works by *causing* over-current in case of a human-dangerous wiring fault inside the appliance, thereby tripping the breaker
     * This is the only case where regular breakers protect humans from electrocution
         * And if you defeat the grounding system with one of those adapters, you are removing this safety mechanism!
-* These are *slow* - you'll be dead by the time they trip
+* Electrocuting yourself probably won't trip these!
 
 
 ### Breaker types: GFCI
@@ -394,11 +428,11 @@ Three main types:
 * Trip if there is more current going out than coming back
     * (And if there is over-current)
     * These protect against overheating *and* electrocution
-* These are *fast* - they'll save you from electrocution
+* These will (usually) save you from electrocution!
 * But GFCI breakers are usually worse than GFCI outlets
     * Farther away from the user, if they need reset
+    * Very long wiring paths can cause false-trips
     * Less-likely to notice if they've worn out
-        * (But good ones will trip, when they do)
 * If these trip, and you're not sure why, take it seriously
 
 
@@ -426,6 +460,7 @@ Three main types:
     * All the things!
 * $45+
 * Maybe you want the GFCI part near the user
+* Maybe CAFCI is pointless
 
 
 ## Last thing: wire sizes
@@ -440,6 +475,109 @@ Three main types:
 That's the rule. You can have thicker wires on a lower-amperage breaker. Or 20A outlets on a 15A breaker. Just **don't** have 14ga wire on a 20A breaker!
 
 
+# Safely working with household electricity
+
+
+## Proceed at your own risk
+
+### If you aren't comfortable, don't do it
+
+
+## Safety precautions
+
+* Turn off the power
+    * Lock it off
+    * Check it!
+* Isolate yourself (from ground, and from hot)
+    * Shoes
+    * Non-metal-handled tools
+    * Gloves, maybe
+* One-hand rule
+* Don't work during a storm
+* Pause and think
+
+
+## Plan your work
+
+* Open things up and see what's really in there
+    * (After turning off the power!)
+* Make note of space, outlet colors, existing wiring, etc.
+* Consider whether you need a permit
+    * Consider whether you are required to add smoke detector!
+    * (Nothing we learn today should require either)
+* Make a shopping list
+* Shop for parts
+
+
+## Gather tools
+
+* Outlet tester / voltage tester / multimeter
+    * (Or known-working lamp)
+* Flashlight / head lamp
+* Wire cutter / stripper
+    * (Or knife)
+* Screwdrivers / power screwdriver (with plastic handles)
+* Needle nose pliers (with plastic handles)
+* Wire
+* Wire nuts / Wago nuts
+* Extra bolts
+* Electrical tape
+
+
+## Get started
+
+* Wear shoes
+* Think through what you plan to do
+* Gather your tools and supplies
+* Turn off the power
+    * Lock it out
+    * Check that it's off
+
+
+# Simple electrical improvements you can do
+
+
+## Replace a plug end
+
+* Easy!
+* Unplug it
+* Cut the old one off
+* Expose and strip the wires
+* Underwriter's knot
+* Wire it up
+    * Be careful of polarity
+* Test it
+
+
+## Replace a lamp socket/switch
+
+* Fix one that's fritzy
+    * Could be the wiring or the socket
+* Or convert to 3-way, or add a touch sensor
+    * Be careful about heat, if using incandescent bulbs
+* (Show parts / options)
+* Unplug it
+* Take off the old one
+    * Polarity usually doesn't matter
+* Wire in the new one
+    * Underwriter's knot
+* Test it
+
+
+## Replace a 2-prong outlet with a GFCI
+
+* (Show parts / options)
+
+
+## Replace a downstream 2-prong outlet with a 3-prong outlet
+
+
+## Replace a wall switch
+
+* (Show parts / options)
+
+
+## Check out a more-complex wiring setup
 
 
 # But wait, there's more!
