@@ -2,7 +2,8 @@
 ## What to teach?
 
 * Understand electricity itself
-    * Common concepts are massively misleading
+    * Common concepts are massively misunderstood
+        * Especially grounding
 
 * Check your house's safety
     * Help you understand what you have
@@ -36,7 +37,7 @@ I settled on...
 ## My qualifications
 
 * Interest and experience since high school
-    * Person-weeks upgrading home electrical circuits
+    * Person-weeks doing major overhaul of my house's electrical circuits
     * Person-days researching core concepts
 
 * Oh, you wanted formal education?
@@ -47,6 +48,9 @@ I settled on...
     * But WAY less-wrong than most stuff online
 
 * I am not an electrician!
+
+
+## PUT SOME PICTURES HERE
 
 
 ## USA only
@@ -79,9 +83,10 @@ Amps * Volts = Watts
 
 One 15A (1800W) circuit can handle a max of:
 
-* 1 area heater
-* or 1 hair dryer
-* or 2 small toasters
+* 1 area heater (1500W, by law)
+* or 1 coffee maker (1500W)
+* or 1 hair dryer (1800W)
+* or 2 small toasters (900W each)
 * or 30 60W light bulbs
 * or 200 60W-equivalent LED bulbs
 
@@ -211,36 +216,37 @@ Look in your basement or attic, and check it against
 * Knob and Tube
 
 
-## Wire type: Modern
+## Wire type: Modern 👍
 
 * Romex (brand name, like Kleenex)
 * NM (Non-Metallic)
 * NMC (NM Cable)
 * UF (Underground Feeder)
-* 👍 (assuming it was installed correctly)
+* Possibly aluminum (🔥!)
+    * See later slide
 
 
-## Wire type: Fabric-wrapped
+## Wire type: Fabric-wrapped 🤷
 
 * Predecessor to NM
 * Common in older homes around here
 * Might have asbestos, but probably not
+* Might be aluminum, but probably not
 * Old splices might not be in junction boxes
 * Probably no ground wire
 * Hard to modify without damage
-* Tolerable
 
 
-## Wire type: Aluminum
+## Wire type: Aluminum 🔥
 
-* 1965-1972
-* Basically [a fire waiting to happen](https://www.alwirerepair.com/aluminum-wiring-whats-the-problem)
+* Very common in 1965-1972
+* [A fire waiting to happen](https://www.alwirerepair.com/aluminum-wiring-whats-the-problem)
 * Look for "AL" or "aluminum"
-* (The main line into your house is aluminum; that's OK)
-* Copper-Clad Aluminum (CCA) is fine!
+    * (The main line into your house is aluminum; that's OK)
+    * Copper-Clad Aluminum (CCA) is fine!
 
 
-## Wire type: Knob and tube
+## Wire type: Knob and tube 😢
 
 * Predecessor to fabric
 * Spliced outside junction boxes
@@ -251,7 +257,7 @@ Look in your basement or attic, and check it against
     * No additional wiring was added to it
     * No insulation was added around it
     * All outlets are two-prong-only or GFCI (better!)
-    * You've never run any high-draw devices on it
+    * Nobody has ever run any high-draw devices on it
 
 
 ## Let's check the actual wiring!
@@ -305,6 +311,7 @@ Three main types:
         * It won't actually provide 20A
             * (Unless the breaker fails!)
         * It's OK to do so, but weird
+* 15A outlets are OK on 20A circuits
 
 
 ### Outlets: 2-prong
@@ -357,11 +364,12 @@ Three main types:
     * Typically ~330-400V
     * (For microseconds)
 * Surge protectors won't block a direct lightning strike
-    * But they *might* be enough for a nearby lightning strike
+    * But they *might* be enough for a next-door lightning strike
     * Ignore the "connected equipment insurance"
         * Homeowner's / renter's insurance probably covers it
 * You need protection for internet and phone lines, too
     * For nearby lightning
+
 
 #### Surge protectors wear out!
 
@@ -410,6 +418,8 @@ Whole-house + Series Mode is pretty great 😁
 * Most breakers: 20A or 15A?
 * Big stuff (air conditioner, dryer, oven/stove): 30A
 * Sub panels: 50A or more
+* Ground wire going to metal plumbing?
+* Ground wire going outside or ground rod?
 * What type of breakers?
     * (C)AFCI? GFCI? AFCI + GFCI? "Regular"?
 * (Mapping circuits)
@@ -598,6 +608,16 @@ For bigger jobs:
     * Reconnect power, test
 
 
+## Sidebar: grounding "to the box"
+
+* If there's a metal junction box in the wall
+    * It should be grounded
+        * i.e. you should ensure that it is connected to a ground line
+* Lots of places online will tell you to "ground to the box"
+    * That's exactly backwards
+        * But rooted in a misunderstanding of a case where it might not be backwards
+
+
 ## Replace a 2-prong or 3-prong outlet with a GFCI
 
 * Shop
@@ -632,6 +652,11 @@ For bigger jobs:
     * Reconnect power, test
 
 
+## Replace a ceiling fan
+
+(Not really - but consider a support bracket)
+
+
 # But wait, there's more!
 
 ## Electricity is **very** misunderstood
@@ -654,6 +679,7 @@ For bigger jobs:
 * The hot wire is electrically dangerous *because of* grounding
 * Bathtubs are electrically dangerous *because of* grounding
 * The ground wire would be effective even if it wasn't connected to earth
+* Your toaster (probably) does not have a ground prong
 * Your house does not have two-phase power
 
 
