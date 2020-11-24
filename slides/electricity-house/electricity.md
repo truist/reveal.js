@@ -3,6 +3,10 @@
 
 * Understand electricity itself
     * Common concepts are massively misunderstood
+        * Especially voltage and charge-flow
+
+* The design of the US electrical system
+    * Common concepts are massively misunderstood
         * Especially grounding
 
 * Check your house's safety
@@ -218,6 +222,8 @@ Look in your basement or attic, and check it against
 
 ## Wire type: Modern 👍
 
+* Plastic-sheathed
+* Copper wire
 * Romex (brand name, like Kleenex)
 * NM (Non-Metallic)
 * NMC (NM Cable)
@@ -229,6 +235,8 @@ Look in your basement or attic, and check it against
 ## Wire type: Fabric-wrapped 🤷
 
 * Predecessor to NM
+* Actually plastic or rubber around each wire
+* Copper wire
 * Common in older homes around here
 * Might have asbestos, but probably not
 * Might be aluminum, but probably not
@@ -239,6 +247,8 @@ Look in your basement or attic, and check it against
 
 ## Wire type: Aluminum 🔥
 
+* Aluminum wire
+* Typically plastic-sheathed
 * Very common in 1965-1972
 * [A fire waiting to happen](https://www.alwirerepair.com/aluminum-wiring-whats-the-problem)
 * Look for "AL" or "aluminum"
@@ -249,6 +259,8 @@ Look in your basement or attic, and check it against
 ## Wire type: Knob and tube 😢
 
 * Predecessor to fabric
+* Copper wire
+* Porcelain insulators ("knobs" and "tubes")
 * Spliced outside junction boxes
 * No ground
 * Unreliable polarity
@@ -258,21 +270,6 @@ Look in your basement or attic, and check it against
     * No insulation was added around it
     * All outlets are two-prong-only or GFCI (better!)
     * Nobody has ever run any high-draw devices on it
-
-
-## Let's check the actual wiring!
-
-Just kidding. Too complicated. But there is a heuristic!
-
-Does starting your toaster or window air conditioner dim your lights?
-
-It might mean the wires are too thin and/or too long.
-
-Or maybe the lights are "dimmable" LEDs reacting to voltage fluctuations.
-
-Pet peeve: buried junction boxes are bad.
-
-Any specific questions?
 
 
 ## Check the outlets
@@ -286,6 +283,7 @@ Three main types:
 
 ### Outlets: GFCI
 
+* Ground Fault Circuit Interrupter
 * GFCI outlets (and/or breakers) protect humans from electrocution
     * Huh? Isn't that what all breakers do?
 * One GFCI outlet provides protection for all *downstream* outlets
@@ -357,12 +355,12 @@ Three main types:
 
 ### Surge protectors
 
+* Protect *equipment*, not *humans*
 * Most surge protectors shunt the excess power to the neutral and/or ground wires
     * No ground wire, worse/no surge protection!
         * That's why there's a light!
 * Surge protectors still "let-through" voltage
-    * Typically ~330-400V
-    * (For microseconds)
+    * Typically ~330-400V, for microseconds
 * Surge protectors won't block a direct lightning strike
     * But they *might* be enough for a next-door lightning strike
     * Ignore the "connected equipment insurance"
@@ -399,6 +397,7 @@ Three main types:
 #### Whole-house surge protection
 
 * Consider [whole-house surge protection](https://www.homedepot.com/p/Siemens-20-Amp-6-5-in-Whole-House-Surge-Protected-Circuit-Breaker-QSA2020SPDP/202562776), too
+* Required by 2020 NEC!
 * Your fridge, stove, washing machine, etc. are all computers
 * ~$120 + an electrician
 * Probably MOV-based
@@ -416,6 +415,7 @@ Whole-house + Series Mode is pretty great 😁
 * Main breaker: 100A or 200A?
     * Is an electric car in your future?
 * Most breakers: 20A or 15A?
+    * They'll add up to way more than the main breaker
 * Big stuff (air conditioner, dryer, oven/stove): 30A
 * Sub panels: 50A or more
 * Ground wire going to metal plumbing?
@@ -570,6 +570,9 @@ For bigger jobs:
 * Unplug it
 * Cut the old one off
 * Expose and strip the wires
+    * Black: hot (smaller prong)
+    * White: neutral (bigger prong)
+    * Green or bare: ground
 * Underwriter's knot
 * Wire it up
     * Be careful of polarity
@@ -600,8 +603,6 @@ For bigger jobs:
 * Do it
     * Disassemble
         * Make note of how the existing wires are connected
-        * Neutral wire should not be connected
-            * (Except in some 3-way scenarios)
     * Remove, replace (unchanged from original)
     * Wrap, reassemble
 * Validate
@@ -628,10 +629,12 @@ For bigger jobs:
     * Disassemble
         * Make note of how the existing wires are connected
     * Remove, replace
-        * Be careful of "line" vs. "load"
+        * Connect "line" and "load" correctly!
+            * This may be different from the prior wiring
     * Wrap, reassemble, sticker
 * Validate
     * Reconnect power, test
+    * Then test downstream outlets, too
 
 ...then replace downstream 2-prong outlets with 3-prong
 
