@@ -1,4 +1,84 @@
 
+## What do you already know about electricity?
+
+Terms?
+Grounding?
+Danger?
+Where is electricity found?
+    Household vs. lightning vs. static electricity vs. circuitry vs. fundamental forces?
+
+
+## If you know anything about electricity, then you probably "know" something that is flat wrong
+
+Most electrical concepts are taught in a simplified way that is misleading and/or wrong, and quickly leads to contradictions
+
+But there really isn't any need for that! If you can understand magnets, you can understand electricity!
+
+
+## Goal for today:
+
+Give you a no-simpler-than-it-can-be mental model for how electricity really works
+    If you already know anything about electricity, this will probably contradict some of that knowledge
+
+You should understand all these unbelievable things I am about to tell you
+
+
+# Some things that are true, but you might not believe them
+
+
+## Electricity holds your body together, and keeps you from sinking into the floor
+
+
+## Electricity and magnetism are the same thing
+
+
+## Batteries don't produce electricity
+
+
+## Light bulbs don't consume electrons
+
+
+## Electrons, in an electric current, move slowly (inches per hour, for DC)
+
+
+## Current doesn't "flow"
+
+
+## The ground wire/prong in your home doesn't have to be connected to physical earth to do its job
+
+
+## Grounding is the reason electricity is dangerous in bathtubs
+
+
+## Most circuit breakers will not save you from electrocution
+
+
+## Your house doesn't have two-phase electricity
+
+
+## there is no single definition of "electricity" that can reconcile:
+
+* what physics uses to actually calculate what will happen in the real world, in various circumstances
+* what the electric company says on their bill
+* what you have learned in school or through self-education
+
+
+## Agenda
+
+Start with basic physics concepts
+Then basic circuit concepts
+Then AC vs. DC
+    And Transformers, Motors, Phases
+Then about how it can kill you
+Then about the design of the US electrical grid
+Then about the design of your household electrical system
+    And Grounding
+
+
+
+
+
+
 TODAY'S AGENDA
 	understanding electricity
 		everything you've ever learned about electricity is wrong
@@ -34,11 +114,6 @@ EVERYTHING YOU'VE EVER LEARNED ABOUT ELECTRICITY IS WRONG
 		"electromagnetic force"
 		"movement of electrons"
 		"power" or "energy" that your electric company sells you
-	there is no single definition of "electricity" that can reconcile:
-		what physics and math use to actually calculate what will happen in the real world, in various circumstances
-		what the electric company says on their bill
-		what you have learned before
-		what you read online or in books
 	"electricity" is actually two things:
 		electric charge
 			like air
