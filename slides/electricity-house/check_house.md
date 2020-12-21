@@ -1,4 +1,19 @@
 
+check that the wire size matches the breaker (advanced)
+    14 (15A), 12 (20A), 10 (30A), and so on
+        (amperages are for 120V / US)
+        why backwards?
+            manufacturing-oriented, not user-oriented
+            https://www.wikiwand.com/en/American_wire_gauge
+    weird numbering - 14/2 really has 3 wires, and so on
+        "current-carrying" (insulated) conductors
+        i.e. wires that need to be isolated from each other
+        i.e. heat
+        i.e. how many you can put in a box or conduit
+
+
+
+
 ## What to teach?
 
 * Understand electricity itself
