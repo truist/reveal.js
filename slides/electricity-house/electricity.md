@@ -596,6 +596,8 @@ For bigger jobs:
 
 ## Replace a wall switch
 
+Only if you're replacing like-for-like!
+
 * Shop
     * Quality, color, cover (shape, color)
 * Prepare
@@ -641,7 +643,7 @@ For bigger jobs:
 
 ## Replace a downstream 2-prong with a 3-prong 
 
-* Same as GFCI, but easier
+* Like GFCI, but easier
 * Shop
     * Amperage, tamper, quality, color, cover (shape, color)
 * Prepare
@@ -650,7 +652,7 @@ For bigger jobs:
     * Disassemble
         * Make note of how the existing wires are connected
     * Remove, replace (unchanged from original)
-    * Wrap, reassemble, (sticker)
+    * Wrap, reassemble, sticker
 * Validate
     * Reconnect power, test
 
