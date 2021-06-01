@@ -65,6 +65,7 @@ You should understand all these unbelievable things I am about to tell you
 
 ## Agenda
 
+~~~
 Start with basic physics concepts
 Then basic circuit concepts
 Then AC vs. DC
@@ -328,7 +329,7 @@ can I ground to a pipe?
         (which there might be, if the box is grounded to the pipes, and all the piping is metal)
     if you're wrong, it can be dangerous!
 
-
+~~~
 
 
 
