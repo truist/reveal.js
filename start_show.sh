@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -e
+
 DECK="$1"
 
 if [ -z "$DECK" ]; then
@@ -16,4 +18,4 @@ if [ ! -d "$DECK" ]; then
 	fi
 fi
 
-grunt serve --webdir=$DECK
+grunt serve "--webdir=$DECK"
