@@ -141,7 +141,7 @@ Also up into the nearby mountains...
 <!-- .slide: data-background="photos/2-nan/IMG_1137.jpeg" -->
 <!-- .slide: class="bottom-text" -->
 ...to eat at an open-air restaurant...  
-(It's amazing how Thai construction often omits the walls!
+(It's amazing how Thai construction often omits the walls!)
 
 ---
 
@@ -282,7 +282,7 @@ Here's the view back down the stairs...
 
 <!-- .slide: data-background="photos/3-caves/IMG_1420.jpeg" -->
 <!-- .slide: class="bottom-text" -->
-...and we found the entrance!
+...where the entrance was!
 
 ---
 
@@ -462,7 +462,7 @@ It took quite a while to get them up the road and back to camp.
 
 Then we took a break for lunch.
 The staff at the camp had prepared an incredible meal, just for the four of us.
-(Remember, no tourists!)
+(No other tourists!)
 
 We also got one of those occasional rains I mentioned.
 And it made a perfect moment - we were sheltered, eating our lunch,
@@ -509,7 +509,7 @@ That day will always be one of my most treasured memories.
 Partly because elephants are incredible!
 Huge, powerful, considerate, hungry, pushy, tragic, rescued, and, and, and...
 
-But more because of the setting  
+But more because of the setting.  
 So far away from the world, so close to the earth.  
 Doing well what needed done, and leaving everything else not done.  
 Plenty of time with nothing to do, and plenty of things to do.
@@ -683,7 +683,7 @@ we bought tickets on the night [train to Bangkok](https://youtu.be/R4rcyspnbVE?t
 
 <!-- .slide: data-background="photos/6-nighttrain/IMG_1758.jpeg" -->
 <!-- .slide: class="bottom-text" -->
-In a first-class sleeper car!
+In a first-class sleeper car, with our own room!
 
 ---
 
@@ -785,7 +785,7 @@ And the airport had a friendly reminder to wear a mask 😀
 
 Bangkok is a big city. Great if you want the opportunity and intensity and efficiency. Not so great if you want peace and quiet. But it was fun, for a day 😁
 
-It's impressive how consistently all the Thai people wear masks, inside and out. It's certainly not 100% of the people 100% of the time, but the default is "mask on". Even in the consistent 30° heat (that's 85° for Americans) and high humidity. It puts Americans to shame. (And they have a higher COVID vaccination rate!)
+It's impressive how consistently all the Thai people wear masks, inside and out. It's certainly not 100% of the people 100% of the time, but the default is "mask on". Even in the consistent 30° heat (that's 85° for Americans) and high humidity. It puts Americans to shame. (And Thailand has a higher COVID vaccination rate!)
 
 
 <!-- .slide: data-background="photos/8-islands/IMG_2030.jpeg" -->
@@ -803,8 +803,7 @@ We took a short flight to Koh Samui, then a shuttle to the ferry 😉
 <!-- .slide: data-background="photos/8-islands/IMG_1897.jpeg" -->
 <!-- .slide: class="bottom-text" -->
 Then we waited for the ferry...  
-(Surrounded by tourists! Not wearing masks!)  
-(Although, I don't worry about it outdoors...)
+(Hmm... tourists seem to like the islands!)
 
 ---
 
@@ -858,9 +857,9 @@ It was around the island, in a much quieter and nicer part.
 
 Closer to the scuba shop!
 
-But there was no road from the new place to the scuba place!
+But there was no road from the new place to the scuba shop!
 
-It was a 45-minute drive all the way back around the island,
+Instead, it was a 45-minute drive all the way back around the island,  
 and the boys and I were scheduled to be there at 7:15am! 😱
 
 ---
@@ -917,7 +916,7 @@ First, apparently monsoon season really does make terrible weather for the major
 But a few islands in the Gulf of Thailand (off the east coast) have perfect weather in August - as we saw!
 
 The biggest and most-touristy of those islands is Koh Samui.
-It's where you'll find the Ritz Carlton, for example!
+(It's where you'll find the Ritz Carlton, for example!)
 So we avoided it 😉
 
 The next-biggest, and most-authentically-Thai (says the web), is Koh Phangan, where we stayed.
@@ -937,11 +936,11 @@ But it goes to show how tourist-oriented the islands are.
 
 Except that they'd clearly been hit hard by covid, and were only just starting to recover.
 Quite a few businesses had closed, and many seemed under-maintained.
-We learned that covid was very hard on the scuba industry, for example.
+We learned that the scuba industry suffered greatly, for example.
 
 That's a part of what led us to switch hotels after the first night.
 The one we were in was clearly once very nice... but now it seemed under-maintained and under-staffed.
-And the location was gorgeous, but hard to get to, and not near anything nice.
+And the location was gorgeous, but hard to get to, and not convenient to nice beaches.
 
 ---
 
@@ -965,7 +964,7 @@ It was nice to be so far away from civilization 😁
 ---
 
 Our first two full days on Koh Phangan, I was scheduled to do [scuba referral dives](https://blog.padi.com/padi-open-water-referral/).
-I had done my initial classroom and pool training at home in Cleveland, and then I could do my final training and check-out dives in Thailand, in beautiful warm ocean!
+I had done my initial classroom and pool training at home in Cleveland, and then I could do my final training and check-out dives in Thailand, in a beautiful and warm ocean!
 
 The boys had also started scuba classes with me, but neither was quite comfortable enough to do all the underwater skills.
 But [the awesome dive shop](https://www.chaloklum-diving.com/) I had found suggested they do their "Discover Scuba" program, where they get geared up and go out on the boat and really go scuba diving, but they don't have to demonstrate all the skills (and don't get certified, and don't go as deep).
@@ -1004,8 +1003,8 @@ this is what I look like after a day of scuba diving 🤩
 
 ## Reflections
 
-Scuba diving is incredible.
-But no picture can ever do it justice.
+Scuba diving is incredible!
+But no picture can ever do it justice.  
 So I don't really even mind not having taken any.
 
 (If you really want a picture, [try these](https://www.chaloklum-diving.com/dive-trips/sail-rock/).)
@@ -1032,9 +1031,10 @@ And with it being off-season, and scuba being so impacted by covid, I was the on
 
 (August is the best time to go to Thailand!)
 
-And I had some really great conversations with him about life, money, and choosing to live simply and quietly on an island far away from the world 😁
+And I had some really great conversations with my instructor about life, money, and choosing to live simply and minimalistically on an island far away from the world 😁
 
-(Oh, and I did all my dives, and passed all my tests, and now I'm a certified Scuba Open Water diver!)
+(Oh, and I did all my dives, and passed all my tests,  
+and now I'm a certified scuba Open Water diver!)
 
 
 <!-- .slide: data-background="photos/10-return/IMG_2042.jpeg" -->
@@ -1054,8 +1054,7 @@ then the long flights back home!
 
 <!-- .slide: data-background="photos/10-return/IMG_2047.jpeg" -->
 <!-- .slide: class="bottom-text" -->
-Before the ferry ride, we saw some stray cats.  
-(Which had been relatively rare.)
+Before the ferry ride, we saw some adorable stray cats.
 
 ---
 
@@ -1115,8 +1114,8 @@ we never would have needed to check anything.
 We actually wasted a small amount of space - we all brought a pair of tennis shoes, and we didn't really need them.
 (Good sandals served us well, all through the trip.)
 
-I definitely recommend this way of packing, for any Thailand trip that isn't just to cities and hotels.
-(And if anyone we know wants to borrow a bag, we have some great ones!)
+I definitely recommend this way of packing, for any Thailand trip.
+(And if you want to borrow a bag, we have some great ones!)
 
 ---
 
@@ -1140,7 +1139,7 @@ I think the only places we used credit cards were for the transportation tickets
 
 Boy was it worth it!
 
-My favorites, in order: Nan De Panna, elephant camp, scuba, cave, food, night markets, night train, crazy vehicles.
+My favorites, in order: Nan De Panna, elephant camp, scuba diving, the cave, authentic Thai food, night markets, the crazy way they drive, night train.
 
 I could live without: cities, temples, touristy places.
 
