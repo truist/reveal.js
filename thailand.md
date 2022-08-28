@@ -110,7 +110,7 @@ taking us all around to see places like a friend's hobby fruit farm...
 
 <!-- .slide: data-background="photos/2-nan/IMG_1318.jpeg" -->
 <!-- .slide: class="bottom-text" -->
-...with this georgeous view of a neighboring rice field...
+...with this gorgeous view of a neighboring rice field...
 
 ---
 
@@ -364,7 +364,7 @@ August. It's the perfect time to go to Thailand. Really.
 
 <!-- .slide: data-background="photos/4-elephants/IMG_1642.jpeg" -->
 <!-- .slide: class="bottom-text" -->
-On our first day in Chaing Mai,  
+On our first day in Chiang Mai,  
 we were picked up early by the elephant camp shuttle!  
 (And yes, that is typical traffic!)
 
@@ -373,7 +373,7 @@ we were picked up early by the elephant camp shuttle!
 They drove us about 90 minutes, deep into the mountains.
 
 Even the drive was incredible - twists and turns, then one-lane roads, then roads that were just dirt tracks.
-The jungle getting thicker snd taller the whole time.
+The jungle getting thicker and taller the whole time.
 
 Out to [the middle of nowhere](https://goo.gl/maps/D6mYikZ8bt5oc5Zv6).
 
@@ -941,7 +941,7 @@ We learned that covid was very hard on the scuba industry, for example.
 
 That's a part of what led us to switch hotels after the first night.
 The one we were in was clearly once very nice... but now it seemed under-maintained and under-staffed.
-And the location was georgeous, but hard to get to, and not near anything nice.
+And the location was gorgeous, but hard to get to, and not near anything nice.
 
 ---
 
