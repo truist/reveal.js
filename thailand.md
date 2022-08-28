@@ -341,6 +341,13 @@ I'll wrap up with a few pictures from our way back out.
 
 ---
 
+<!-- .slide: data-background="photos/3-caves/IMG_4770.jpeg" -->
+<!-- .slide: class="bottom-text" -->
+Kristina loves that plant scientific names are universal!  
+(And teak was everywhere in Thailand!)
+
+---
+
 <!-- .slide: class="only-text" -->
 ## Reflections
 
