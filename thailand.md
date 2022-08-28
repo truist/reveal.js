@@ -337,7 +337,7 @@ Kristina loves that plant scientific names are universal!
 ---
 
 <!-- .slide: class="only-text" -->
-## Reflections
+## Reflections (1/2)
 
 We went to Thailand in August, which is "monsoon season", i.e. the off-season, i.e. it's crazy to go to Thailand in August.
 
@@ -348,9 +348,19 @@ But still, I fretted a lot about whether the trip was just going to be endless s
 
 **Nope, not at all.** It rained for an hour or so, every other day or so.
 
-And August has some huge upsides! No tourists! (We had the cave all to ourselves!) Fruit is all in season! Everything is green!
+---
 
-And in January to March, especially in the north, farmers burn their crops, and smoke is a huge issue.
+<!-- .slide: class="only-text" -->
+## Reflections (2/2)
+
+And August has some huge upsides!
+
+No tourists! (We had the cave all to ourselves!)  
+Fruit is all in season!  
+Everything is green!
+
+And in January to March, especially in the north,  
+farmers burn their crops, and smoke is a huge issue.
 
 August. It's the perfect time to go to Thailand. Really.
 
@@ -662,7 +672,9 @@ I just had to share this fruit stand that was in the mall 😁
 <!-- .slide: class="only-text" -->
 ## Reflections
 
-We enjoyed Chiang Mai, especially the markets. The temples didn't hold much interest for any of us. And even as a relatively-small city by world standards (~1MM in the metro area), it was still a stark contrast to the quiet of Nan, and the tranquility of elephant camp.
+We enjoyed Chiang Mai, especially the markets.
+The temples didn't hold much interest for any of us.
+And even as a relatively-small city by world standards (~1MM in the metro area), it was still a stark contrast to the quiet of Nan, and the tranquility of elephant camp.
 
 
 <!-- .slide: data-background="photos/6-nighttrain/IMG_1773.jpeg" -->
@@ -712,10 +724,9 @@ It was actually a very nice way to travel 😁
 We had a whole adventure getting back from the mall -  
 our Grab-app drivers (think Uber) kept ghosting us.
 
-We only made it back exactly at the moment we were supposed to be back
-to drop off our rental car and get to the train station.
-Then we had to get our tickets (pre-purchased through [a third party](https://12go.asia/en/trip-page/TH0004001f007t00b03SxbWU/2022-09-02-18-00-00?position=15)!)
-and get onboard on time.
+We just barely made it to the train station on time!
+Then we had to get our tickets (bought through [a third party](https://12go.asia/en/trip-page/TH0004001f007t00b03SxbWU/2022-09-02-18-00-00?position=15)!)
+and get onboard.
 
 Then we got all the way to the front of the train and boarded,
 only to be told there was no dining car this day!
@@ -724,9 +735,6 @@ before the train left.
 
 Everybody made it on board safe and sound, but it was tense!
 
-But then the train ride was pretty nice :)
-
-(And I'm told the scenery is beautiful, if you do it during the day!)
 
 
 <!-- .slide: data-background="photos/7-bangkok/IMG_4956.jpeg" -->
@@ -913,32 +921,31 @@ which was a great way to end the trip.
 
 The choice of which island to visit was complicated.
 
-First, apparently monsoon season really does make terrible weather for the major tourist islands in the Andaman Sea (off the west coast).
-But a few islands in the Gulf of Thailand (off the east coast) have perfect weather in August - as we saw!
+First, monsoon season really does make terrible weather for the famous tourist islands off the west coast.
+But a few islands off the east coast have perfect weather in August - as we saw!
 
 The biggest and most-touristy of those islands is Koh Samui.
-(It's where you'll find the Ritz Carlton, for example!)
+(It's where you'll find the Ritz Carlton!)
 So we avoided it 😉
 
-The next-biggest, and most-authentically-Thai (says the web), is Koh Phangan, where we stayed.
-But we were partly motivated by its proximity to the major scuba dive site of the Gulf, Sail Rock.
+The next-biggest, and most-Thai-like, is Koh Phangan.  
+And it's close to the famous scuba site Sail Rock. 🎉
 
-But Koh Phangan is home to the (in)famous [Full Moon Party](https://www.wikiwand.com/en/Full_Moon_Party), which was a big downside for us.
-But it turns out the party schedule is predictable, and we would miss it, with our travel schedule!
+But it's also home to the (in)famous [Full Moon Party](https://www.wikiwand.com/en/Full_Moon_Party) 😱  
+
+But our schedule meant we missed it! 🎉
 
 ---
 
 <!-- .slide: class="only-text" -->
 ## Reflections (2/3)
 
-Both islands have standardized on ripping off tourists for taxi rides - you pay per person, rather than per trip.
-So a trip that would be 150 baht (about $5 US) for the four of us, anywhere else in Thailand, would easily be 600 baht on the islands.
-(Oh, the horror! $20 for a taxi ride!)
-But it goes to show how tourist-oriented the islands are.
+Both islands are tourist traps.  
+For example, taxi rides are (over-)priced consistently everywhere,  
+per-person rather than per-trip, like they are in the rest of Thailand.
 
-Except that they'd clearly been hit hard by covid, and were only just starting to recover.
-Quite a few businesses had closed, and many seemed under-maintained.
-We learned that the scuba industry suffered greatly, for example.
+But covid closed quite a few businesses, and many seemed under-maintained.
+We learned that the scuba industry suffered greatly, too.
 
 That's a part of what led us to switch hotels after the first night.
 The one we were in was clearly once very nice... but now it seemed under-maintained and under-staffed.
@@ -968,10 +975,9 @@ It was nice to be so far away from civilization 😁
 
 <!-- .slide: class="only-text" -->
 Our first two full days on Koh Phangan, I was scheduled to do [scuba referral dives](https://blog.padi.com/padi-open-water-referral/).
-I had done my initial classroom and pool training at home in Cleveland, and then I could do my final training and check-out dives in Thailand, in a beautiful and warm ocean!
 
-The boys had also started scuba classes with me, but neither was quite comfortable enough to do all the underwater skills.
-But [the awesome dive shop](https://www.chaloklum-diving.com/) I had found suggested they do their "Discover Scuba" program, where they get geared up and go out on the boat and really go scuba diving, but they don't have to demonstrate all the skills (and don't get certified, and don't go as deep).
+The boys had also started scuba classes with me, but neither was quite ready to do all the underwater skills.
+But [our awesome dive shop](https://www.chaloklum-diving.com/) suggested they do their "Discover Scuba" program, where they really get to dive, but they don't have to demonstrate all the skills (and don't get certified, and don't go as deep).
 
 So we all signed up!
 Me for two days of certification dives, and the boys to join me on the second day for their fun dives.
@@ -1010,19 +1016,24 @@ this is what I look like after a day of scuba diving 🤩
 ## Reflections
 
 Scuba diving is incredible!
+
 But no picture can ever do it justice.  
-So I don't really even mind not having taken any.
+So I don't really mind not having taken any.
 
-(If you really want a picture, [try these](https://www.chaloklum-diving.com/dive-trips/sail-rock/).)
+I'll try to convey the feeling, though...
 
-But try to imagine being calm and feeling weightless, coasting slowly along next to a wall of coral that extends 15 meters down and 15 more up, with fish darting in and out everywhere.
+---
+
+Imagine being calm and feeling weightless, coasting slowly along next to a wall of coral that extends 15 meters down and 15 more up, with fish darting in and out everywhere.
 
 Then roll over onto your back and just lay there, looking up.
+
+Weightless.
 
 See the rays of sunlight streaming down from the surface, and thousands of little blue fish swimming all around you, close enough to touch.
 Then see your 12-year-old son drifting by above you, and wave to him, and he waves back.
 
-If you can relate to that, you can get some sense of what it's like 🧘
+If you can relate to that, you can get some sense of what it's like 🤩
 
 ---
 
@@ -1036,9 +1047,7 @@ Check out the [review I wrote for them](https://goo.gl/maps/Sna5jGedwuvvidYj8).
 And with it being off-season, and scuba being so impacted by covid, I was the only student for my instructor!
 (Ditto with Benjamin!)
 
-(August is the best time to go to Thailand!)
-
-And I had some really great conversations with my instructor about life, money, and choosing to live simply and minimalistically on an island far away from the world 😁
+And I had some really great conversations with my instructor about life, money, and choosing to live a spare, simple life on an island far away from the world 😁
 
 (Oh, and I did all my dives, and passed all my tests,  
 and now I'm a certified scuba Open Water diver!)
@@ -1118,9 +1127,6 @@ We bought one more "personal item" bag while we were there, for souvenirs.
 
 If we hadn't brought the scuba gear,  
 we never would have needed to check anything.
-
-We actually wasted a small amount of space - we all brought a pair of tennis shoes, and we didn't really need them.
-(Good sandals served us well, all through the trip.)
 
 I definitely recommend this way of packing, for any Thailand trip.
 (And if you want to borrow a bag, we have some great ones!)
