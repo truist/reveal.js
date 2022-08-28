@@ -13,8 +13,7 @@ So by moving right, you move across the locations.
 
 By moving down, you move within each location.
 
-(For users with a keyboard, `<esc>` will show you an overview,  
-and `<space>` will take you through all the slides.)
+(For desktop browsers, `<space>` will go through all the slides.)
 
 Feel free to move about the cabin!
 
