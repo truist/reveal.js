@@ -92,14 +92,15 @@ far outside the normal tourist routes!
 <!-- .slide: data-background="photos/2-nan/IMG_1352.jpeg" -->
 <!-- .slide: class="top-text" -->
 The resort the perfect place to recuperate after the travel.  
-Here's me waiting for my massage, while Liam gets his 😁
+And here's me waiting for my massage, while Liam gets his 😁
 
 ---
 
 <!-- .slide: data-background="photos/2-nan/IMG_4612.jpeg" -->
 <!-- .slide: class="bottom-text" -->
 It's owned and run by the grandparents of a school friend,  
-who went way out of their way to help us plan the whole trip!
+who went way out of their way to help us plan the whole trip!  
+And the food they served was authentic and amazing!  
 
 ---
 
@@ -315,14 +316,6 @@ The cave was actually a tunnel, and at the end was this shrine.
 
 ---
 
-<!-- .slide: data-background-video="photos/3-caves/IMG_1447.mp4" data-background-video-muted -->
-<!-- .slide: class="bottom-text" -->
-Which gave us a chance to light incense and  
-mourn the passing of Kristina's aunt,  
-the day before, back home 😢
-
----
-
 <!-- .slide: data-background="photos/3-caves/IMG_1459.jpeg" -->
 <!-- .slide: class="bottom-text" -->
 I'll wrap up with a few pictures from our way back out.
@@ -334,10 +327,6 @@ I'll wrap up with a few pictures from our way back out.
 ---
 
 <!-- .slide: data-background="photos/3-caves/IMG_4757.jpeg" -->
-
----
-
-<!-- .slide: data-background="photos/3-caves/IMG_1450.jpeg" -->
 
 ---
 
@@ -395,13 +384,7 @@ Out to [the middle of nowhere](https://goo.gl/maps/D6mYikZ8bt5oc5Zv6).
 
 <!-- .slide: data-background="photos/4-elephants/IMG_1552.jpeg" -->
 <!-- .slide: class="bottom-text" -->
-Here's our arrival, and our wonderful host.
-
----
-
-<!-- .slide: data-background="photos/4-elephants/IMG_1553.jpeg" -->
-<!-- .slide: class="bottom-text" -->
-(And the toilet they offered us!)
+Here's our arrival, and our wonderful host, Prom.
 
 ---
 
@@ -870,7 +853,7 @@ the others checked out the beach!
 <!-- .slide: class="only-text" -->
 That night, we switched lodgings. (More details in 'Reflections'.)
 
-Kristina found us the beautiful place shown in the first slide.
+Kristina found us the [beautiful place](https://www.airbnb.com/rooms/24366199?source_impression_id=p3_1661716194_fhwVxPf8dwE7oRBF) shown in the first slide.
 It was around the island, in a much quieter and nicer part.
 
 Closer to the scuba shop!
