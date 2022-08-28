@@ -3,6 +3,7 @@
 ## Arthur Family Thailand Trip 2022
 
 
+<!-- .slide: class="only-text" -->
 ##### But first, a word about these slides
 
 The slides are arranged in a two-dimensional grid,  
@@ -61,6 +62,7 @@ Then one more short flight, to the tiny airport in Nan.
 
 ---
 
+<!-- .slide: class="only-text" -->
 ### Reflections
 
 The trip out was **very** long, but tolerable.  
@@ -197,6 +199,7 @@ And finally, don't forget the fresh coconuts!
 
 ---
 
+<!-- .slide: class="only-text" -->
 ## Reflections
 
 Now that we're back,  
@@ -338,6 +341,7 @@ I'll wrap up with a few pictures from our way back out.
 
 ---
 
+<!-- .slide: class="only-text" -->
 ## Reflections
 
 We went to Thailand in August, which is "monsoon season", i.e. the off-season, i.e. it's crazy to go to Thailand in August.
@@ -370,6 +374,7 @@ we were picked up early by the elephant camp shuttle!
 
 ---
 
+<!-- .slide: class="only-text" -->
 They drove us about 90 minutes, deep into the mountains.
 
 Even the drive was incredible - twists and turns, then one-lane roads, then roads that were just dirt tracks.
@@ -458,6 +463,7 @@ until the elephant is ready to go!
 
 ---
 
+<!-- .slide: class="only-text" -->
 It took quite a while to get them up the road and back to camp.
 
 Then we took a break for lunch.
@@ -502,6 +508,7 @@ And bathing them!
 
 ---
 
+<!-- .slide: class="only-text" -->
 ## Reflections
 
 That day will always be one of my most treasured memories.
@@ -663,6 +670,7 @@ I just had to share this fruit stand that was in the mall 😁
 
 ---
 
+<!-- .slide: class="only-text" -->
 ## Reflections
 
 We enjoyed Chiang Mai, especially the markets. The temples didn't hold much interest for any of us. And even as a relatively-small city by world standards (~1MM in the metro area), it was still a stark contrast to the quiet of Nan, and the tranquility of elephant camp.
@@ -709,6 +717,7 @@ It was actually a very nice way to travel 😁
 
 ---
 
+<!-- .slide: class="only-text" -->
 ## Reflections
 
 We had a whole adventure getting back from the mall -  
@@ -781,6 +790,7 @@ And the airport had a friendly reminder to wear a mask 😀
 
 ---
 
+<!-- .slide: class="only-text" -->
 ### Reflections
 
 Bangkok is a big city. Great if you want the opportunity and intensity and efficiency. Not so great if you want peace and quiet. But it was fun, for a day 😁
@@ -850,6 +860,7 @@ the others checked out the beach!
 
 ---
 
+<!-- .slide: class="only-text" -->
 That night, we switched lodgings. (More details in 'Reflections'.)
 
 Kristina found us the beautiful place shown in the first slide.
@@ -908,6 +919,7 @@ which was a great way to end the trip.
 
 ---
 
+<!-- .slide: class="only-text" -->
 ## Reflections (1/3)
 
 The choice of which island to visit was complicated.
@@ -927,6 +939,7 @@ But it turns out the party schedule is predictable, and we would miss it, with o
 
 ---
 
+<!-- .slide: class="only-text" -->
 ## Reflections (2/3)
 
 Both islands have standardized on ripping off tourists for taxi rides - you pay per person, rather than per trip.
@@ -944,6 +957,7 @@ And the location was gorgeous, but hard to get to, and not convenient to nice be
 
 ---
 
+<!-- .slide: class="only-text" -->
 ## Reflections (3/3)
 
 Through visiting places, switching hotels, and scuba diving, we explored nearly every part of Koh Phangan.
@@ -963,6 +977,7 @@ It was nice to be so far away from civilization 😁
 
 ---
 
+<!-- .slide: class="only-text" -->
 Our first two full days on Koh Phangan, I was scheduled to do [scuba referral dives](https://blog.padi.com/padi-open-water-referral/).
 I had done my initial classroom and pool training at home in Cleveland, and then I could do my final training and check-out dives in Thailand, in a beautiful and warm ocean!
 
@@ -974,6 +989,7 @@ Me for two days of certification dives, and the boys to join me on the second da
 
 ---
 
+<!-- .slide: class="only-text" -->
 That was why we had the one checked bag (scuba gear!) and why we were motivated to stay on Koh Phangan.
 
 But it turns out you can't take pictures when your phone is tucked away in a dry spot.
@@ -1001,6 +1017,7 @@ this is what I look like after a day of scuba diving 🤩
 
 ---
 
+<!-- .slide: class="only-text" -->
 ## Reflections
 
 Scuba diving is incredible!
@@ -1020,6 +1037,7 @@ If you can relate to that, you can get some sense of what it's like 🧘
 
 ---
 
+<!-- .slide: class="only-text" -->
 ## Bonus reflections
 
 Also that scuba shop ([Chaloklum Diving](https://www.chaloklum-diving.com/)) was just the best.
@@ -1102,6 +1120,7 @@ And made it all the way home!
 
 ---
 
+<!-- .slide: class="only-text" -->
 ## Final reflections: baggage
 
 I was very proud of how we packed.
@@ -1119,6 +1138,7 @@ I definitely recommend this way of packing, for any Thailand trip.
 
 ---
 
+<!-- .slide: class="only-text" -->
 ## Final reflections: money
 
 It's very expensive to get there from here.
@@ -1135,6 +1155,7 @@ I think the only places we used credit cards were for the transportation tickets
 
 ---
 
+<!-- .slide: class="only-text" -->
 ## Final reflections: overall
 
 Boy was it worth it!

@@ -21,57 +21,6 @@
 		<!-- <link rel="stylesheet" href="dist/theme/night.css" id="theme"> -->
 		<!-- <link rel="stylesheet" href="dist/theme/white.css" id="theme"> -->
 
-		<style>
-			.reveal .backgrounds {
-				background-image: radial-gradient(rgba(87, 40, 22, 0.7), black);
-			}
-
-			.reveal .slide-background-content {
-				background-size: contain;
-				/* background-color: rgba(87, 40, 22, 0.7); */
-				/* background-color: black; */
-			}
-
-			.reveal:not(.overview) .slides {
-				height: 100% !important;
-				inset: auto auto auto 50% !important;
-				transform: translate(-50%, 0) scale(1.0) !important;
-			}
-
-			.reveal .slides section {
-				inset: 50% auto auto auto;
-				transform: translate(0, -50%) scale(1.0);
-			}
-
-			.reveal section.top-text, .reveal section.bottom-text {
-				height: 100%;
-			}
-
-			.reveal section > * {
-				text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
-				width: 100%;
-			}
-
-			.reveal section.top-text > *, .reveal section.bottom-text > * {
-				background-color: rgba(194, 83, 6, 0.7);
-				color: rgba(239, 224, 182, 1);
-
-				margin-top: 0;
-				margin-bottom: 0;
-			}
-
-			.reveal section.top-text > * {
-				position: absolute;
-				top: 1em;
-				border-radius: 0.1em;
-			}
-
-			.reveal section.bottom-text > * {
-				position: absolute;
-				bottom: 1em;
-				border-radius: 0.1em;
-			}
-		</style>
 	</head>
 
 	<body>
@@ -104,9 +53,9 @@
 
 				width: 1200,
 				height: 700,
-				// minScale: 0.8,
-				// maxScale: 1.2,
-				// margin: 0,
+				//minScale: 0.6,
+				maxScale: 1.0,
+				//margin: 0,
 
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown ]
@@ -115,5 +64,68 @@
 		</script>
 
 	</body>
+
+	<style>
+		.reveal .backgrounds {
+			background-image: radial-gradient(rgba(87, 40, 22, 0.7), black);
+		}
+
+		.reveal .slide-background-content {
+			background-size: contain;
+		}
+
+		.reveal:not(.overview) .slides, .reveal .slides > section, .reveal .slides > section > section {
+			min-height: 100%;
+		}
+
+		.reveal:not(.overview) .slides {
+			/*
+			height: 100% !important;
+			inset: auto auto auto 50% !important;
+			transform: translate(-50%, 0) scale(var(--slide-scale)) !important;
+			*/
+		}
+
+		/*
+		.reveal .slides > section {
+			inset: 50% auto auto auto;
+			/*transform: translate(0, -50%);*/
+			/*transform: translate(0, -50%) scale(var(--slide-scale));*/
+			/*
+		}
+
+		.reveal section.top-text, .reveal section.bottom-text {
+			height: 100%;
+		}
+		*/
+
+		.reveal section > * {
+			text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+			width: 100%;
+		}
+
+		.reveal section.only-text {
+			padding: 5% 0;
+		}
+
+		.reveal section.top-text > *, .reveal section.bottom-text > * {
+			background-color: rgba(194, 83, 6, 0.7);
+			color: rgba(239, 224, 182, 1);
+
+			margin-top: 0;
+			margin-bottom: 0;
+
+			position: absolute;
+			border-radius: 0.1em;
+		}
+
+		.reveal section.top-text > * {
+			top: 20px;
+		}
+
+		.reveal section.bottom-text > * {
+			bottom: 20px;
+		}
+	</style>
 </html>
 
