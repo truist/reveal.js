@@ -759,7 +759,7 @@ In a 5-star skyscraper hotel on the river, with a two-bedroom suite!
 
 <!-- .slide: data-background="photos/7-bangkok/IMG_1836.jpeg" -->
 <!-- .slide: class="bottom-text" -->
-Probably our favorite thing that day was the [Cat Cafe](https://goo.gl/maps/jkdXC3nbXoz4MWDe8)
+Probably our favorite thing that day was the [Cat Cafe](https://goo.gl/maps/jkdXC3nbXoz4MWDe8).
 
 ---
 
@@ -941,8 +941,8 @@ But our schedule meant we missed it! 🎉
 ## Reflections (2/3)
 
 Both islands are tourist traps.  
-For example, taxi rides are (over-)priced consistently everywhere,  
-per-person rather than per-trip, like they are in the rest of Thailand.
+For example, taxi rides are (over-)priced throughout the islands,  
+per-person rather than per-trip, unlike the rest of Thailand.
 
 But covid closed quite a few businesses, and many seemed under-maintained.
 We learned that the scuba industry suffered greatly, too.
@@ -1062,7 +1062,7 @@ and now I'm a certified scuba Open Water diver!)
 
 <!-- .slide: data-background="photos/10-return/IMG_2086.jpeg" -->
 <!-- .slide: class="bottom-text" -->
-The way back was another 30 hours of travel, or maybe more:  
+The way back was another 30 hours of travel, or really more:  
 it started with a ferry ride to Koh Samui,  
 then a short flight to Bangkok,  
 then the long flights back home!
