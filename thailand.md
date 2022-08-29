@@ -91,7 +91,7 @@ far outside the normal tourist routes!
 <!-- .slide: data-background="photos/2-nan/IMG_1352.jpeg" -->
 <!-- .slide: class="top-text" -->
 The resort the perfect place to recuperate after the travel.  
-And here's me waiting for my massage, while Liam gets his 😁
+Here's me waiting for my massage, while Liam gets his 😁
 
 ---
 
@@ -503,7 +503,7 @@ Walking them, feeding them...
 <!-- .slide: data-background="photos/4-elephants/IMG_4852.jpeg" -->
 <!-- .slide: class="bottom-text" -->
 And bathing them!  
-(Yes, we were in there with them. No, you don't want a picture! 😉)
+(Yes, we were in there with them!)
 
 ---
 
@@ -974,7 +974,8 @@ It was nice to be so far away from civilization 😁
 ---
 
 <!-- .slide: class="only-text" -->
-Our first two full days on Koh Phangan, I was scheduled to do [scuba referral dives](https://blog.padi.com/padi-open-water-referral/).
+Our first two full days on Koh Phangan,  
+I was scheduled to do [scuba referral dives](https://blog.padi.com/padi-open-water-referral/).
 
 The boys had also started scuba classes with me, but neither was quite ready to do all the underwater skills.
 But [our awesome dive shop](https://www.chaloklum-diving.com/) suggested they do their "Discover Scuba" program, where they really get to dive, but they don't have to demonstrate all the skills (and don't get certified, and don't go as deep).
