@@ -90,7 +90,7 @@ far outside the normal tourist routes!
 
 <!-- .slide: data-background="photos/2-nan/IMG_1352.jpeg" -->
 <!-- .slide: class="top-text" -->
-The resort the perfect place to recuperate after the travel.  
+The resort was the perfect place to recuperate after the travel.  
 Here's me waiting for my massage, while Liam gets his 😁
 
 ---
