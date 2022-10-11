@@ -12,6 +12,8 @@ fi
 if [ ! -d "$DECK" ]; then
 	if [ -d "slides/$DECK" ]; then
 		DECK="slides/$DECK"
+	elif [ -d "secret_slides/$DECK" ]; then
+		DECK="secret_slides/$DECK"
 	else
 		echo "$DECK is not a directory" >&2
 		exit 2
