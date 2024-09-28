@@ -1,5 +1,5 @@
 <!-- .slide: data-background="photos/map.png" -->
-<!-- .slide: class="bottom-text" -->
+<!-- .slide: class="top-text" -->
 ## Arthur Family Europe Trip 2024
 
 
@@ -20,11 +20,12 @@ Feel free to move about the cabin!
 
 
 <!-- .slide: data-background="photos/1-Scotland/IMG_8834.png" -->
-<!-- .slide: class="bottom-text" -->
+<!-- .slide: class="top-text" -->
 ## Part 1: Glasgow, Scotland
 
 ---
 
+<!-- .slide: class="only-text" -->
 This first part of our trip was only partly a vacation -  
 I was working (from our AirBnB) all week,  
 while the other three toured around Scotland.
@@ -144,20 +145,100 @@ By the end, it was way up in the treetops!
 <!-- .slide: class="only-text" -->
 ### Reflections
 
-We originally had big plans for Glasgow, because Kristina and I already knew it, and we had plenty of time there.
+We originally had big plans for Scotland, because Kristina and I already knew our way around, and we had plenty of time there.
 
-But multiple illnesses curtailed a lot of that.
+But multiple illnesses curtailed a lot of that.  
+We still got to explore a bit, but it wasn't exactly a "fun" week,  
+and we completely missed Edinburgh 😢.
 
-We still got to explore a bit, but it wasn't exactly a "fun" week.
-
-I learned a lot about what it's like to work for my company, from that time zone 🤔
+I learned a lot about what it's like to work for my company,  
+from that time zone 🤔
 
 (Go ➡ for the next slide)
 
 
-<!-- .slide: data-background="photos/1-Scotland/IMG_8834.png" -->
-<!-- .slide: class="bottom-text" -->
+<!-- .slide: data-background="photos/2-HP/IMG_5148.png" -->
+<!-- .slide: class="top-text" -->
 ## Part 2: London / Warner Brothers Harry Potter Studios
+
+---
+
+<!-- .slide: data-background="photos/2-HP/IMG_5075.png" -->
+<!-- .slide: class="top-text" -->
+We took a train from Glasgow, through Edinburgh, to London.
+
+---
+
+<!-- .slide: class="only-text" -->
+We only spent two nights / one day in London, and only to see the [Warner Brothers Harry Potter Studios](https://www.wbstudiotour.co.uk/) where they filmed the Harry Potter movies.
+
+The boys wanted to do it, but we didn't really have room for it in our schedule, so it wasn't part of our original plans.
+
+But when I looked up available tickets, there was exactly one day with tickets available, at one time of that day... that was exactly the day and time that we'd need, to fit it into our schedule!
+
+So of course we did! And it was awesome - as you'll see!
+
+---
+
+<!-- .slide: data-background="photos/2-HP/IMG_5094.png" -->
+<!-- .slide: class="bottom-text" -->
+The Great Hall
+
+---
+
+<!-- .slide: data-background="photos/2-HP/IMG_8966.png" -->
+<!-- .slide: class="bottom-text" -->
+Dumbledore's office
+
+---
+
+<!-- .slide: data-background="photos/2-HP/IMG_8976.png" -->
+<!-- .slide: class="bottom-text" -->
+Potions classroom
+
+---
+
+<!-- .slide: data-background="photos/2-HP/IMG_8977.png" -->
+<!-- .slide: class="bottom-text" -->
+Potion ingredients
+
+---
+
+<!-- .slide: data-background="photos/2-HP/IMG_5108.png" -->
+<!-- .slide: class="bottom-text" -->
+Platform 9 & 3/4
+
+---
+
+<!-- .slide: data-background="photos/2-HP/IMG_5111.png" -->
+<!-- .slide: class="top-text" -->
+Butterbeer!
+
+---
+
+<!-- .slide: data-background="photos/2-HP/IMG_5122.png" -->
+<!-- .slide: class="bottom-text" -->
+Hagrid's motorcycle!
+
+---
+
+<!-- .slide: data-background="photos/2-HP/IMG_5141.png" -->
+<!-- .slide: class="bottom-text" -->
+...and the amazing Hogwarts scale model
+
+---
+
+<!-- .slide: class="only-text" -->
+### Reflections
+
+The pictures are just a small taste of everything we saw there.
+It really was an awesome place to go.
+
+And that scale model at the end - just incredible!
+You have to see it in person to understand how large and detailed it is.
+
+Overall this was a highlight of our trip.
+
 
 
 <!-- .slide: data-background="photos/1-Scotland/IMG_8834.png" -->
