@@ -225,7 +225,7 @@ Hagrid's motorcycle!
 
 <!-- .slide: data-background="photos/2-HP/IMG_5141.png" -->
 <!-- .slide: class="bottom-text" -->
-...and the amazing Hogwarts scale model
+...and the amazing Hogwarts scale model!
 
 ---
 
@@ -377,14 +377,12 @@ A day or two later Kristina and I visited a real, non-touristy Irish pub!
 I don't have a picture of our AirBnB house, but it was pretty cool.  
 All stone, with a stone wall around the (small) yard.
 
-Overall Cork itself wasn't a great tourist city.  
-It was "just a city" - a bit like Pittsburgh (or Cleveland!).
+Overall Cork itself was "just a city" - a bit like Cleveland.
 
 The areas around it were interesting.  
 But once again we were beset by illness, and didn't see much 😢
 
 Blarney castle was interesting, and the grounds were awesome.  
-Overall it was a good place to visit.
 
 And like everywhere we went on this trip, the weather was  
 cool and cloudy with a chance of rain. Every. Single. Day. 😱
@@ -566,7 +564,6 @@ Another boy has joined them!
 ---
 
 <!-- .slide: data-background="photos/5-Netherlands/IMG_9235.png" -->
-Daddy pulling the boys
 
 ---
 
@@ -659,16 +656,14 @@ By the end, we were all pretty tired of travel.
 Which is why Kristina went by herself to the windmills.
 I sure wish I had gone, though!
 
-We never did rent bicycles, even though it would have been easy to do so.
-There just wasn't a day where it would have helped.
+The public transportation was extremely frustrating -  
+multiple independent systems with signage **not** in English,  
+vs. Gothenburg where one pass/app got us onto everything.  
+We spent over $100 on wrong tickets 😡
 
-OTOH, the public transportation was extremely frustrating.
-Unlike Gothenburg where one pass and app covered everything, in Amsterdam there were three independent systems (bus, metro, rail) and they didn't interact.
-And the signage was strictly in Dutch, not English.
-We spent over $100 on wasted tickets because we misunderstood what tickets we needed.
+But the people were much more naturally social.
 
-There's also no pictures here of the main tourist areas of Amsterdam.
-We did spend a few hours there... and that was too much, at least for me.
+(And we never did rent bicycles!)
 
 
 <!-- .slide: data-background="photos/6-Outro/IMG_5763.png" -->
@@ -678,7 +673,7 @@ We did spend a few hours there... and that was too much, at least for me.
 ---
 
 <!-- .slide: class="only-text" -->
-### Final reflections (purpose of the trip)
+### Purpose of the trip
 
 This trip wasn't meant to be a "vacation".
 We called it "travel".  
@@ -695,7 +690,7 @@ and a chance for the boys to get comfortable with those places.
 ---
 
 <!-- .slide: class="only-text" -->
-### Final reflections (did we do it?)
+### Did we do it?
 
 We accomplished our goals!
 
@@ -710,12 +705,10 @@ And too many illnesses.
 And the weather (more on the next slide).  
 And it was expensive!
 
-So we definitely don't want to do this exact trip again!
-
 ---
 
 <!-- .slide: class="only-text" -->
-### Final reflections (weather)
+### Weather
 
 All the places we are considering are coastal places  
 where the weather is basically a downside,  
@@ -733,19 +726,20 @@ So... we have some tough things to consider.
 ---
 
 <!-- .slide: class="only-text" -->
-### Final reflections (which would we pick?)
+### Which would we pick?
 
-Scotland: my company has an office there, but it's not part of the EU,  
-so there's no advantage there. Culturally great.  
-Overall we liked it.
+**Scotland**: my company has an office there,  
+but Scotland isn't part of the EU (Brexit!),  
+so there's no advantage there.  
+Culturally great. Overall we liked it.
 
-Ireland: EU and English-speaking.  
+**Ireland**: EU and English-speaking.  
 But there are various downsides and we didn't really like it.
 
-Sweden: I loved it! But not English-speaking,  
+**Sweden**: I loved it! But not English-speaking,  
 and culturally very non-social.
 
-Netherlands: big downsides with climate change.  
+**Netherlands**: big downsides with climate change.  
 Not very outsider-friendly and non-English. Otherwise good.
 
 So: 🤷
@@ -755,9 +749,8 @@ So: 🤷
 <!-- .slide: class="only-text" -->
 ### Final reflections
 
-We still had a lot of fun, and saw a lot of cool places, and hopefully this will set us all up for great choices in our future.
-
-Onward!
+We still had a lot of fun, and saw a lot of cool places, and hopefully this will set us up for great choices in our future.
+And we feel lucky to have the means to do a trip like this, both as adults and for our kids.
 
 
 <!-- .slide: data-background="photos/1-Scotland/IMG_5012.png" -->
