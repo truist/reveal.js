@@ -671,25 +671,94 @@ There's also no pictures here of the main tourist areas of Amsterdam.
 We did spend a few hours there... and that was too much, at least for me.
 
 
+<!-- .slide: data-background="photos/6-Outro/IMG_5763.png" -->
+<!-- .slide: class="top-text" -->
+## Returning home / final reflections
+
+---
+
+<!-- .slide: class="only-text" -->
+### Final reflections (purpose of the trip)
+
+This trip wasn't meant to be a "vacation".
+We called it "travel".  
+But it wasn't even exactly that.
+
+You see, we've been thinking of moving to Europe, for years.  
+Or for sending our kids off to college there.  
+(They're dual US/Hungarian citizens, so they have EU citizenship.)
+
+So this trip was a scouting journey.  
+Both a chance for us to see some real places we might want to live,  
+and a chance for the boys to get comfortable with those places.
+
+---
+
+<!-- .slide: class="only-text" -->
+### Final reflections (did we do it?)
+
+We accomplished our goals!
+
+We learned a lot about these places,  
+and the boys commented that they were "just like home".
+
+So: ✅
+
+But overall the experience wasn't great.  
+We didn't have enough exciting / fun things.  
+And too many illnesses.  
+And the weather (more on the next slide).  
+And it was expensive!
+
+So we definitely don't want to do this exact trip again!
+
+---
+
+<!-- .slide: class="only-text" -->
+### Final reflections (weather)
+
+All the places we are considering are coastal places  
+where the weather is basically a downside,  
+cool and rainy most of the year.
+
+Plus the daylight cycle through the year,  
+with lots of dark in the winter months.
+
+But the upsides are pretty great,  
+with good government, culture, and economies,  
+good schools, and well situated for climate change.
+
+So... we have some tough things to consider.
+
+---
+
+<!-- .slide: class="only-text" -->
+### Final reflections (which would we pick?)
+
+Scotland: my company has an office there, but it's not part of the EU,  
+so there's no advantage there. Culturally great.  
+Overall we liked it.
+
+Ireland: EU and English-speaking.  
+But there are various downsides and we didn't really like it.
+
+Sweden: I loved it! But not English-speaking,  
+and culturally very non-social.
+
+Netherlands: big downsides with climate change.  
+Not very outsider-friendly and non-English. Otherwise good.
+
+So: 🤷
+
+---
+
 <!-- .slide: class="only-text" -->
 ### Final reflections
 
-purpose of the trip
-    But it met our primary goal
-    "just like home"
-    Not a great vacation
-    Not really great travel either
-    illness, regularly
+We still had a lot of fun, and saw a lot of cool places, and hopefully this will set us all up for great choices in our future.
 
-weather
-    cool and rainy - and it followed us
-    daylight
-
-other
-    less Euro than expected
-    grocery shopping
-
-which would we pick?
+Onward!
 
 
 <!-- .slide: data-background="photos/1-Scotland/IMG_5012.png" -->
+
