@@ -315,14 +315,6 @@ Tourist trap, much?
 
 ---
 
-<!-- .slide: class="only-text" -->
-To be clear, we didn't care about the Blarney Stone.  
-We just wanted to see the castle and the grounds.  
-The castle was interesting, and the grounds were awesome.  
-Overall it was a good visit.
-
----
-
 <!-- .slide: data-background="photos/3-Ireland/IMG_5236.png" -->
 <!-- .slide: class="bottom-text" -->
 The castle, up close.  
@@ -390,6 +382,9 @@ It was "just a city" - a bit like Pittsburgh (or Cleveland!).
 
 The areas around it were interesting.  
 But once again we were beset by illness, and didn't see much 😢
+
+Blarney castle was interesting, and the grounds were awesome.  
+Overall it was a good place to visit.
 
 And like everywhere we went on this trip, the weather was  
 cool and cloudy with a chance of rain. Every. Single. Day. 😱
@@ -539,64 +534,162 @@ And university is free for EU citizens!
 I'm ready to move there 😜
 
 
-<!-- .slide: data-background="photos/5-Netherlands/IMG_8834.png" -->
-<!-- .slide: class="bottom-text" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5693.png" -->
+<!-- .slide: class="top-text" -->
 ## Part 5: Amsterdam, Netherlands
 
+---
 
-
-<!-- .slide: data-background="photos/5-Netherlands/IMG_5651.png" -->
-<!-- .slide: data-background="photos/5-Netherlands/IMG_5677.png" -->
-<!-- .slide: data-background="photos/5-Netherlands/IMG_5681.png" -->
-<!-- .slide: data-background="photos/5-Netherlands/IMG_5682.png" -->
-<!-- .slide: data-background="photos/5-Netherlands/IMG_5686.png" -->
-<!-- .slide: data-background="photos/5-Netherlands/IMG_5693.png" -->
-<!-- .slide: data-background="photos/5-Netherlands/IMG_5739.png" -->
-<!-- .slide: data-background="photos/5-Netherlands/IMG_5745.png" -->
-<!-- .slide: data-background="photos/5-Netherlands/IMG_5747.png" -->
-<!-- .slide: data-background="photos/5-Netherlands/IMG_9182.png" -->
 <!-- .slide: data-background="photos/5-Netherlands/IMG_9193.png" -->
-<!-- .slide: data-background="photos/5-Netherlands/IMG_9197.png" -->
+<!-- .slide: class="top-text" -->
+Once again we were happy with our AirBnB.  
+Here's the back deck of this one!
+
+---
+
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5686.png" -->
+<!-- .slide: class="bottom-text" -->
+...and Liam finding clams in the canal!
+
+---
+
 <!-- .slide: data-background="photos/5-Netherlands/IMG_9198.png" -->
+<!-- .slide: class="bottom-text" -->
+...and some boys playing in the canal!
+
+---
+
 <!-- .slide: data-background="photos/5-Netherlands/IMG_9219.png" -->
+<!-- .slide: class="bottom-text" -->
+Another boy has joined them!
+
+---
+
 <!-- .slide: data-background="photos/5-Netherlands/IMG_9235.png" -->
-<!-- .slide: data-background="photos/5-Netherlands/IMG_9308.png" -->
-IMG_9310.mov
+Daddy pulling the boys
+
+---
+
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5677.png" -->
+<!-- .slide: class="top-text" -->
+One of my favorite things about Amsterdam was how the infrastructure was focused on pedestrians, not cars.
+
+---
+
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5681.png" -->
+<!-- .slide: class="top-text" -->
+With special sidewalk lanes for bicycles!  
+(Side-*ride* lanes?)
+
+---
+
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5682.png" -->
+<!-- .slide: class="bottom-text" -->
+They also had pretty cool trash infrastructure.  
+You put your trash bags in those containers, then these trucks come around and lift the whole thing up and empty it out 🤯
+
+---
+
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5747.png" -->
+<!-- .slide: class="bottom-text" -->
+One day we went way across town  
+(seeing bicycles at the train station!)...
+
+---
+
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5739.png" -->
+<!-- .slide: class="bottom-text" -->
+...to a motion-capture VR gaming place!  
+(Which was... OK)
+
+---
+
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5745.png" -->
+<!-- .slide: class="bottom-text" -->
+On the way back Kristina found some thistle!
+
+---
+
+<!-- .slide: data-background="photos/5-Netherlands/IMG_9197.png" -->
+<!-- .slide: class="bottom-text" -->
+Another day we went shopping and found some Doritos...  
+Cool American flavor! 🤦
+
+---
+
 <!-- .slide: data-background="photos/5-Netherlands/IMG_9314.png" -->
-IMG_9325.mov
-<!-- .slide: data-background="photos/5-Netherlands/IMG_9374.png" -->
+<!-- .slide: class="top-text" -->
+Our last day there, Kristina went by herself to see the windmills.
+
+---
+
+This gives a better idea of their size
+
+<video controls muted><source data-src="photos/5-Netherlands/IMG_9325.mp4" type="video/mp4" /></video>
+
+---
+
+And this shows what they're really doing!  
+(And I sure wish I'd gone with her!)
+
+<video controls muted><source data-src="photos/5-Netherlands/IMG_9310.mp4" type="video/mp4" /></video>
+
+---
+
+<!-- .slide: data-background="photos/5-Netherlands/IMG_9308.png" -->
+<!-- .slide: class="bottom-text" -->
+They use all that power/machinery to do things like make dyes...
+
+---
+
 <!-- .slide: data-background="photos/5-Netherlands/IMG_9380.png" -->
+<!-- .slide: class="bottom-text" -->
+...for clogs!
 
+---
 
+<!-- .slide: data-background="photos/5-Netherlands/IMG_9374.png" -->
 
+---
+
+<!-- .slide: class="only-text" -->
+### Reflections
+
+By the end, we were all pretty tired of travel.
+Which is why Kristina went by herself to the windmills.
+I sure wish I had gone, though!
+
+We never did rent bicycles, even though it would have been easy to do so.
+There just wasn't a day where it would have helped.
+
+OTOH, the public transportation was extremely frustrating.
+Unlike Gothenburg where one pass and app covered everything, in Amsterdam there were three independent systems (bus, metro, rail) and they didn't interact.
+And the signage was strictly in Dutch, not English.
+We spent over $100 on wasted tickets because we misunderstood what tickets we needed.
+
+There's also no pictures here of the main tourist areas of Amsterdam.
+We did spend a few hours there... and that was too much, at least for me.
 
 
 <!-- .slide: class="only-text" -->
 ### Final reflections
 
-Weather
+purpose of the trip
+    But it met our primary goal
+    "just like home"
+    Not a great vacation
+    Not really great travel either
+    illness, regularly
 
-Not a great vacation
+weather
+    cool and rainy - and it followed us
+    daylight
 
-Not really great travel either
+other
+    less Euro than expected
+    grocery shopping
 
-But it met our primary goal
-
-
-
-<!-- .slide: data-background="photos/1-Scotland/IMG_8834.png" -->
+which would we pick?
 
 
----
-
-<!-- .slide: data-background-video="photos/3-caves/IMG_1447.mp4" data-background-video-muted -->
-<!-- .slide: class="bottom-text" -->
-Bar  
-Baz
-
----
-
-<video controls muted><source data-src="photos/4-elephants/IMG_1561.mp4" type="video/mp4" /></video>
-
-A video
-
+<!-- .slide: data-background="photos/1-Scotland/IMG_5012.png" -->
