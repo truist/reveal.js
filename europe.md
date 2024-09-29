@@ -37,7 +37,7 @@ then work in the afternoon/evening.
 
 <!-- .slide: data-background="photos/1-Scotland/IMG_5069.png" -->
 <!-- .slide: class="top-text" -->
-One of the first things we did was eat at our favorite restaurant,
+One of the first things we did was eat at our favorite restaurant,  
 [Maki & Ramen](https://www.makiramen.com/)!
 
 ---
@@ -76,7 +76,8 @@ Here's one day when we visited the greenhouses.
 
 <!-- .slide: data-background="photos/1-Scotland/IMG_8905.png" -->
 <!-- .slide: class="top-text" -->
-Another day we went to George Square and hung out with the pigeons.
+Another day we went to George Square  
+and hung out with the pigeons.
 
 ---
 
@@ -119,7 +120,7 @@ And get a nice family portrait!
 
 <!-- .slide: data-background="photos/1-Scotland/IMG_5025.png" -->
 <!-- .slide: class="top-text" -->
-Oh, and totally by chance, we found a high ropes course  
+Totally by chance, we found a high ropes course  
 and decided to give it a try!
 
 ---
@@ -447,7 +448,7 @@ This was a temporary wall hiding major construction!
 <!-- .slide: class="bottom-text" -->
 We had a reservation at a [high-end restaurant](https://www.bord27.se/en),  
 and it was awesome 😋,  
-but then Benjamin was sick and missed it 😢
+but Benjamin was sick and missed it 😢
 
 ---
 
@@ -471,7 +472,7 @@ Another day, Liam and I want on an adventure...
 
 <!-- .slide: data-background="photos/4-Sweden/IMG_5574.png" -->
 <!-- .slide: class="bottom-text" -->
-...way out to the very furthest shore we could reach!
+...way out to the very farthest shore we could reach!
 
 ---
 
@@ -493,7 +494,7 @@ Along the way we passed through a little island town...
 
 <!-- .slide: data-background="photos/4-Sweden/IMG_5533.png" -->
 <!-- .slide: class="bottom-text" -->
-Liam and I had a classic Swedish meal!
+We had a classic Swedish meal!
 
 ---
 
@@ -538,9 +539,35 @@ And university is free for EU citizens!
 I'm ready to move there 😜
 
 
-<!-- .slide: data-background="photos/1-Scotland/IMG_8834.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_8834.png" -->
 <!-- .slide: class="bottom-text" -->
 ## Part 5: Amsterdam, Netherlands
+
+
+
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5651.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5677.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5681.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5682.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5686.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5693.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5739.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5745.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_5747.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_9182.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_9193.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_9197.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_9198.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_9219.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_9235.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_9308.png" -->
+IMG_9310.mov
+<!-- .slide: data-background="photos/5-Netherlands/IMG_9314.png" -->
+IMG_9325.mov
+<!-- .slide: data-background="photos/5-Netherlands/IMG_9374.png" -->
+<!-- .slide: data-background="photos/5-Netherlands/IMG_9380.png" -->
+
+
 
 
 
