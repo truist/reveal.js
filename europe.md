@@ -241,7 +241,7 @@ Overall this was a highlight of our trip.
 
 
 <!-- .slide: data-background="photos/3-Ireland/IMG_5172.png" -->
-<!-- .slide: class="bottom-text" -->
+<!-- .slide: class="top-text" -->
 ## Part 3: Cork, Ireland
 
 ---
@@ -394,9 +394,148 @@ And like everywhere we went on this trip, the weather was
 cool and cloudy with a chance of rain. Every. Single. Day. 😱
 
 
-<!-- .slide: data-background="photos/1-Scotland/IMG_8834.png" -->
-<!-- .slide: class="bottom-text" -->
+<!-- .slide: data-background="photos/4-Sweden/IMG_5604.png" -->
+<!-- .slide: class="top-text" -->
 ## Part 4: Gothenburg, Sweden
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5361.png" -->
+<!-- .slide: class="top-text" -->
+But first, a layover in Heathrow, and sushi!
+
+---
+
+<!-- .slide: data-background-video="photos/4-Sweden/IMG_5436.mp4" data-background-video-muted -->
+<!-- .slide: class="bottom-text" -->
+Our AirBnB was **gorgeous** - with a full sauna in the basement! - and we really enjoyed our stay there
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5437.png" -->
+<!-- .slide: class="top-text" -->
+Out back was a very nice yard with a deck, trampoline, hot tub, and berry bushes!
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_9126.png" -->
+<!-- .slide: class="top-text" -->
+We went into Gothenburg every day, exploring
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5410.png" -->
+<!-- .slide: class="bottom-text" -->
+One day we found this very nice shopping area...
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5415.png" -->
+<!-- .slide: class="bottom-text" -->
+...with this tourist-oriented - but still awesome - candy shop.  
+Real (black) licorice is very popular in Sweden!
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5405.png" -->
+<!-- .slide: class="top-text" -->
+This was a temporary wall hiding major construction!
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5456.png" -->
+<!-- .slide: class="bottom-text" -->
+We had a reservation at a [high-end restaurant](https://www.bord27.se/en),  
+and it was awesome 😋,  
+but then Benjamin was sick and missed it 😢
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5450.png" -->
+<!-- .slide: class="bottom-text" -->
+The drinks were very good, too 🥃
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5480.png" -->
+<!-- .slide: class="top-text" -->
+Another day, Liam and I want on an adventure...
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5483.png" -->
+<!-- .slide: class="top-text" -->
+...we went into the city, to the coast, then onto a ferry...
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5574.png" -->
+<!-- .slide: class="bottom-text" -->
+...way out to the very furthest shore we could reach!
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5538.png" -->
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5527.png" -->
+<!-- .slide: class="bottom-text" -->
+Along the way we passed through a little island town...
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5528.png" -->
+<!-- .slide: class="bottom-text" -->
+...where they know that you Don't Throw Away Wood!
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5533.png" -->
+<!-- .slide: class="bottom-text" -->
+Liam and I had a classic Swedish meal!
+
+---
+
+<!-- .slide: data-background="photos/4-Sweden/IMG_5551.png" -->
+<!-- .slide: class="bottom-text" -->
+And found a Korok circle!
+
+---
+
+<!-- .slide: class="only-text" -->
+### Reflections (1 of 2)
+
+There's so much to say, that didn't fit into the pictures!
+
+Once again illness hampered our plans, a bit.
+And the constant chance of rain was annoying - but we just did everything anyway.
+(We played putt-putt in the rain!)
+
+That was Liam's first fancy restaurant meal, and it was awesome!
+We had some **incredible** North Sea oysters.
+And Liam now knows how amazing crème brulée can be!
+
+Our AirBnB had that sauna in the basement, which was fun to try.
+I got a small inkling of why sauna is so popular in Sweden.
+
+---
+
+<!-- .slide: class="only-text" -->
+### Reflections (2 of 2)
+
+I loved Gothenburg!
+Swedish design speaks to me.
+And their public transportation was **awesome**.
+(That entire trip out to the island was covered by our pass!)
+
+Kristina didn't like Gothenburg as much, I think mostly because the people aren't as openly friendly / social as in other places.
+Especially in public, people mostly ignore each other, if they don't already know each other.
+For me, that was fine. For her, it was uncomfortable.
+
+Overall Gothenburg was my favorite place, by far.
+And university is free for EU citizens!
+I'm ready to move there 😜
 
 
 <!-- .slide: data-background="photos/1-Scotland/IMG_8834.png" -->
