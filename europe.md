@@ -240,10 +240,158 @@ You have to see it in person to understand how large and detailed it is.
 Overall this was a highlight of our trip.
 
 
-
-<!-- .slide: data-background="photos/1-Scotland/IMG_8834.png" -->
+<!-- .slide: data-background="photos/3-Ireland/IMG_5172.png" -->
 <!-- .slide: class="bottom-text" -->
 ## Part 3: Cork, Ireland
+
+---
+
+Lets start with the important thing:  
+This is what it's like to drive in Ireland!  
+(On the left, with a manual!)
+
+<video controls muted><source data-src="photos/3-Ireland/IMG_9058.mp4" type="video/mp4" /></video>
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5187.png" -->
+<!-- .slide: class="top-text" -->
+Our drive was to visit a beach 😀
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_9040.png" -->
+<!-- .slide: class="top-text" -->
+I almost wasn't allowed in! 😜
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5200.png" -->
+<!-- .slide: class="bottom-text" -->
+After the beach we walked to the nearby fort / ruins
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5203.png" -->
+<!-- .slide: class="bottom-text" -->
+And looked out at the bay and the town
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5213.png" -->
+<!-- .slide: class="bottom-text" -->
+And had some lunch, and made some faces 🤣
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5216.png" -->
+<!-- .slide: class="bottom-text" -->
+Another day we went to the [Blarney estate](https://blarneycastle.ie/)...
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5222.png" -->
+<!-- .slide: class="bottom-text" -->
+...home of the famous Blarney castle!
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5224.png" -->
+<!-- .slide: class="bottom-text" -->
+I think we had more fun on the grounds, than in the castle
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_9075.png" -->
+<!-- .slide: class="bottom-text" -->
+The cave was small, but would have made a good cellar
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5235.png" -->
+<!-- .slide: class="top-text" -->
+Tourist trap, much?
+
+---
+
+<!-- .slide: class="only-text" -->
+To be clear, we didn't care about the Blarney Stone.  
+We just wanted to see the castle and the grounds.  
+The castle was interesting, and the grounds were awesome.  
+Overall it was a good visit.
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5236.png" -->
+<!-- .slide: class="bottom-text" -->
+The castle, up close.  
+It really was a very impressive structure.
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5251.png" -->
+<!-- .slide: class="bottom-text" -->
+Looking out the castle "windows"
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_9077.png" -->
+<!-- .slide: class="top-text" -->
+And out an arrow slit
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5277.png" -->
+<!-- .slide: class="bottom-text" -->
+And from the top of the castle
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5300.png" -->
+<!-- .slide: class="bottom-text" -->
+This tree was pretty cool
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5306.png" -->
+<!-- .slide: class="bottom-text" -->
+There was a horse graveyard!  
+And a horse (er, an ex-horse) named Snoopy!
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5321.png" -->
+<!-- .slide: class="top-text" -->
+Liam paused for a portrait
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5340.png" -->
+<!-- .slide: class="bottom-text" -->
+So did Kristina!
+
+---
+
+<!-- .slide: data-background="photos/3-Ireland/IMG_5350.png" -->
+<!-- .slide: class="bottom-text" -->
+A day or two later Kristina and I visited a real, non-touristy Irish pub!
+
+---
+
+<!-- .slide: class="only-text" -->
+### Reflections
+
+I don't have a picture of our AirBnB house, but it was pretty cool.  
+All stone, with a stone wall around the (small) yard.
+
+Overall Cork itself wasn't a great tourist city.  
+It was "just a city" - a bit like Pittsburgh (or Cleveland!).
+
+The areas around it were interesting.  
+But once again we were beset by illness, and didn't see much 😢
+
+And like everywhere we went on this trip, the weather was  
+cool and cloudy with a chance of rain. Every. Single. Day. 😱
 
 
 <!-- .slide: data-background="photos/1-Scotland/IMG_8834.png" -->
@@ -254,6 +402,20 @@ Overall this was a highlight of our trip.
 <!-- .slide: data-background="photos/1-Scotland/IMG_8834.png" -->
 <!-- .slide: class="bottom-text" -->
 ## Part 5: Amsterdam, Netherlands
+
+
+
+<!-- .slide: class="only-text" -->
+### Final reflections
+
+Weather
+
+Not a great vacation
+
+Not really great travel either
+
+But it met our primary goal
+
 
 
 <!-- .slide: data-background="photos/1-Scotland/IMG_8834.png" -->
