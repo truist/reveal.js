@@ -120,20 +120,20 @@ And get a nice family portrait!
 
 <!-- .slide: data-background="photos/1-Scotland/IMG_5025.png" -->
 <!-- .slide: class="top-text" -->
-Totally by chance, we found a high ropes course  
+Totally by chance, we found a high ropes company  
 and decided to give it a try!
 
 ---
 
 <!-- .slide: data-background="photos/1-Scotland/IMG_5027.png" -->
 <!-- .slide: class="top-text" -->
-All of us!
+One of us was very fast, through it.
 
 ---
 
 <!-- .slide: data-background="photos/1-Scotland/IMG_5039.png" -->
 <!-- .slide: class="top-text" -->
-(Some of us looked pretty cool doing it)
+And one of us looked pretty cool doing it 😎
 
 ---
 
@@ -232,7 +232,7 @@ Hagrid's motorcycle!
 <!-- .slide: class="only-text" -->
 ### Reflections
 
-The pictures are just a small taste of everything we saw there.
+The pictures are just a small taste of everything we saw there.  
 It really was an awesome place to go.
 
 And that scale model at the end - just incredible!
@@ -510,7 +510,7 @@ That was Liam's first fancy restaurant meal, and it was awesome!
 We had some **incredible** North Sea oysters.
 And Liam now knows how amazing crème brulée can be!
 
-Our AirBnB had that sauna in the basement, which was fun to try.
+Our AirBnB had a sauna in the basement, which was fun to try.  
 I got a small inkling of why sauna is so popular in Sweden.
 
 ---
@@ -525,7 +525,7 @@ And their public transportation was **awesome**.
 
 Kristina didn't like Gothenburg as much, I think mostly because the people aren't as openly friendly / social as in other places.
 Especially in public, people mostly ignore each other, if they don't already know each other.
-For me, that was fine. For her, it was uncomfortable.
+(For me, that was fine!)
 
 Overall Gothenburg was my favorite place, by far.
 And university is free for EU citizens!
@@ -695,7 +695,7 @@ and a chance for the boys to get comfortable with those places.
 We accomplished our goals!
 
 We learned a lot about these places,  
-and the boys commented that they were "just like home".
+and the boys commented that they were "like home".
 
 So: ✅
 
@@ -711,14 +711,14 @@ And it was expensive!
 ### Weather
 
 All the places we are considering are coastal places  
-where the weather is basically a downside,  
+where the weather is basically a downside;  
 cool and rainy most of the year.
 
 Plus the daylight cycle through the year,  
 with lots of dark in the winter months.
 
 But the upsides are pretty great,  
-with good government, culture, and economies,  
+with good government, culture, health care, and economies,  
 good schools, and well situated for climate change.
 
 So... we have some tough things to consider.
@@ -749,7 +749,7 @@ So: 🤷
 <!-- .slide: class="only-text" -->
 ### Final reflections
 
-We still had a lot of fun, and saw a lot of cool places, and hopefully this will set us up for great choices in our future.
+We still had some fun, and saw a lot of cool places, and hopefully this will set us up for great choices in our future.
 And we feel lucky to have the means to do a trip like this, both as adults and for our kids.
 
 
